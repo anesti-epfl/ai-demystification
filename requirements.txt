@@ -4,3 +4,10 @@ scikit-learn
 matplotlib
 seaborn
 shap
+feedparser
+spacy
+wordcloud
+matplotlib
+sentence-transformers 
+umap-learn 
+plotly
