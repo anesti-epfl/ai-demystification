@@ -1,0 +1,1069 @@
+model_name,brand_name,os,popularity,sellers_amount,screen_size,memory_size,battery_size,release_year,price_range
+1 1/8GB Bluish Black (5033D-2JALUAA),other,Android,422,36,5.0,8.0,2000.0,2020,low
+1 5033D 1/16GB Volcano Black (5033D-2LALUAF),other,Android,323,36,5.0,16.0,2000.0,2020,low
+1.3 1/16GB Charcoal,other,Android,1047,10,5.71,16.0,3000.0,2020,low
+10 6/64GB Black,other,Android,71,2,5.8,64.0,3400.0,2018,high
+10 Lite 3/32GB Blue,other,Android,424,2,6.21,32.0,3400.0,2018,medium-low
+10 Lite 4/64GB Black,other,Android,134,6,6.21,64.0,3400.0,2019,medium-high
+10 lite 3/128GB Blue,other,Android,477,3,6.21,128.0,3400.0,2021,medium-high
+10 lite 3/64GB Black,other,Android,215,8,6.21,64.0,3400.0,2018,medium-low
+10 lite 3/64GB Blue,other,Android,437,7,6.21,64.0,3400.0,2018,medium-high
+105 DS 2019 Pink (16KIGP01A01),other,missing,18,28,1.77,0.004,800.0,2019,low
+105 Dual Sim 2019 Black (16KIGB01A01),other,missing,262,31,1.77,-1.0,800.0,2019,low
+105 Dual Sim New Black (A00028315),other,missing,507,2,1.8,0.004,800.0,2017,low
+105 Single Sim 2019 Black (16KIGB01A13),other,missing,805,31,1.77,-1.0,800.0,2019,low
+105 Single Sim 2019 Pink (16KIGP01A13),other,missing,692,35,1.77,-1.0,800.0,2019,low
+105 Single Sim New Black (A00028356),other,missing,460,5,1.8,0.004,800.0,2017,low
+105 Single Sim New Blue (A00028372),other,missing,378,2,1.8,0.004,800.0,2017,low
+105 Single Sim New White (A00028371),other,missing,59,1,1.8,0.004,800.0,2017,low
+106 New DS Grey (16NEBD01A02),other,missing,838,35,1.8,-1.0,800.0,2019,low
+10i 4/128GB Black (51093VQV),other,Android,532,2,6.21,128.0,3400.0,2019,medium-high
+10i 4/128GB Blue (51093VQX),other,Android,444,2,6.21,128.0,3400.0,2019,medium-high
+110 Dual Sim 2019 Black (16NKLB01A07),other,missing,471,34,1.77,-1.0,800.0,2019,low
+110 Dual Sim 2019 Blue (16NKLL01A04),other,missing,248,36,1.77,-1.0,800.0,2019,low
+125 Dual Sim Black (16GMNB01A17),other,missing,807,50,2.4,-1.0,1020.0,2020,low
+15 4/128GB Black,other,Android,490,1,5.45,128.0,3000.0,2018,medium-high
+15 4/64GB Black,other,Android,166,3,5.45,64.0,3000.0,2018,medium-high
+15 Plus 6/64GB Black,other,Android,666,1,5.95,64.0,3500.0,2018,medium-high
+15 Plus 6/64GB Gray,other,Android,415,1,5.95,64.0,3500.0,2018,medium-high
+150 Black,other,missing,920,61,2.4,-1.0,1020.0,2017,low
+150 Dual Sim Cyan (16GMNE01A04),other,missing,543,39,2.4,-1.0,1020.0,2020,low
+150 Dual Sim Red (16GMNR01A02),other,missing,835,39,2.4,-1.0,1020.0,2020,low
+150 White,other,missing,645,12,2.4,-1.0,1020.0,2017,low
+16 6/128GB Black,other,Android,1111,11,6.0,128.0,3100.0,2018,medium-high
+16 6/64GB Black,other,Android,1144,19,6.0,64.0,3100.0,2018,medium-high
+16X 6/128GB Dual Purple,other,Android,663,2,6.0,128.0,3100.0,2020,medium-high
+16Xs 6/128GB Pearl White,other,Android,900,11,6.2,128.0,4000.0,2020,medium-high
+16th 6/64GB Black,other,Android,1063,9,6.0,64.0,3010.0,2018,medium-high
+1B 5002H Pine Green (5002H-2BALUA12),other,Android,195,4,5.5,16.0,3000.0,2020,low
+1B 5002H Prime Black (5002H-2AALUA12),other,Android,616,31,5.5,16.0,3000.0,2020,low
+1SE 3/32GB Power Gray (5030D-2AALUA2),other,Android,629,38,6.22,32.0,4000.0,2020,medium-low
+1SE 4/128GB Agate Green (5030E-2BALUA2),other,Android,790,35,6.22,128.0,4000.0,2020,medium-low
+2.2 2/16GB Black,other,Android,1052,1,5.71,16.0,3000.0,2019,low
+2.3 2/32GB Green,other,Android,870,2,6.2,32.0,4000.0,2020,medium-low
+2.4 2/32GB Charcoal,other,Android,1031,17,6.5,32.0,4500.0,2020,medium-low
+20 6/128GB Black,other,Android,823,1,6.26,128.0,3750.0,2019,medium-high
+2003 Dual SIM Dark Gray (2003D-2AALUA1),other,missing,538,26,2.4,-1.0,970.0,2020,low
+2003 Dual SIM Metallic Blue (2003D-2BALUA1),other,missing,193,27,2.4,-1.0,970.0,2020,low
+2019 Single SIM Metallic Gray (2019G-3AALUA1),other,missing,545,23,2.4,-1.0,970.0,2020,low
+2053 Dual SIM Pure White (2053D-2BALUA1),other,missing,475,25,2.4,-1.0,970.0,2020,low
+2053 Dual SIM Volcano Black (2053D-2AALUA1),other,missing,585,33,2.4,-1.0,970.0,2020,low
+210 Dual SIM 2019 Black (16OTRB01A02),other,missing,464,20,2.4,0.016,1020.0,2019,low
+230 Dual Blue (16PCML01A02),other,missing,65,33,2.8,0.016,1200.0,2019,low
+230 Dual Dark Silver (A00026971),other,missing,860,54,2.8,0.016,1200.0,2015,low
+2720 Flip Black (16BTSB01A10),other,iOS,883,26,2.8,4.0,1500.0,2019,low
+2720 Flip Red,other,missing,721,35,2.8,4.0,1500.0,2020,low
+3 Pro 6/128GB Nitro Blue,other,Android,103,1,6.3,128.0,4045.0,2019,medium-high
+3.4 3/64GB Charcoal,other,Android,1132,24,6.39,64.0,4000.0,2020,medium-low
+3T 128GB (Gunmetal),other,other,235,9,5.5,128.0,3400.0,2017,medium-high
+3T 64GB (Gunmetal),other,other,921,10,5.5,64.0,3400.0,2016,medium-high
+3X 5048Y Black (5048Y-2AALWE12),other,Android,194,1,6.52,64.0,4000.0,2020,medium-low
+40 Neon,other,Android,190,1,4.0,8.0,1300.0,2016,low
+5 4/128GB Violet,other,Android,280,1,6.5,128.0,5000.0,2020,medium-high
+5 6/64GB Black,other,Android,337,1,5.5,64.0,3300.0,2017,medium-high
+5 6/64GB Slate Grey,other,Android,234,1,5.5,64.0,3300.0,2017,medium-high
+5 Pro 8/128GB Green,other,Android,38,1,6.3,128.0,4035.0,2020,medium-high
+5.3 4/64GB Charcoal,other,Android,1156,42,6.55,64.0,4000.0,2020,medium-low
+5.4 4/128GB Polar Night,other,Android,701,4,6.39,128.0,4000.0,2021,medium-high
+5310 2020 DualSim Black/Red (16PISXO1A18),other,missing,888,46,2.4,0.016,1200.0,2020,low
+5i 4/64GB Green,other,Android,137,2,6.5,64.0,5000.0,2020,medium-low
+6 4/128GB Blue,other,Android,1139,20,6.5,128.0,4300.0,2020,medium-high
+6 4/64GB Blue,other,Android,1045,1,6.5,64.0,4300.0,2020,medium-high
+6 64GB Black,other,Android,309,3,5.5,64.0,3000.0,2017,medium-high
+6 64GB Silver,other,Android,21,1,5.5,64.0,3000.0,2017,medium-high
+6 8/128GB Blue,other,Android,1118,34,6.5,128.0,4300.0,2020,medium-high
+6 Pro 8/128GB Blue,other,Android,1117,10,6.6,128.0,4300.0,2020,medium-high
+6.1 4/32GB Black,other,Android,620,2,5.5,32.0,3000.0,2018,medium-low
+6.1 4/64GB Black,other,Android,798,4,5.5,64.0,3000.0,2018,medium-low
+6.1 Plus 4/64GB Blue,other,Android,202,1,5.8,64.0,3060.0,2018,medium-high
+6S 4/64GB Eclipse Black,other,Android,329,1,6.5,64.0,4300.0,2021,medium-high
+6S 6/128GB Lunar White,other,Android,953,5,6.5,128.0,4300.0,2020,medium-high
+6T 8/256GB Midnight Black,other,Android,661,8,6.41,256.0,3700.0,2018,high
+6i 3/64GB White,other,Android,989,17,6.5,64.0,5000.0,2020,medium-low
+6i 4/128GB Green,other,Android,1042,27,6.5,128.0,5000.0,2020,medium-low
+7 16GB (Gold),other,Android,158,1,5.2,16.0,3100.0,2015,low
+7 6/64GB Mist Blue,other,Android,570,3,6.5,64.0,5000.0,2021,medium-high
+7 8/256GB Mirror Gray,other,Android,1022,11,6.41,256.0,3700.0,2019,high
+7 Plus 4/64GB Black,other,Android,375,2,6.0,64.0,3800.0,2018,medium-high
+7 Pro 8/128GB Mirror Blue,other,Android,1179,23,6.4,128.0,4500.0,2020,medium-high
+8 12/256GB Onyx Black,other,Android,1067,11,6.55,256.0,4300.0,2020,high
+8 3/32GB Blue,other,Android,535,3,5.2,32.0,3000.0,2018,medium-low
+8 4/64GB (Blue),other,Android,693,1,5.2,64.0,3000.0,2016,medium-low
+8 8/128GB Onyx Black,other,Android,1155,13,6.55,128.0,4300.0,2020,high
+8 Dual SIM Silver,other,Android,626,1,5.3,64.0,3090.0,2017,medium-high
+8 Pro 12/256GB Glacial Green,other,Android,1095,32,6.78,256.0,4510.0,2020,high
+8 Pro 8/128GB Onyx Black,other,Android,1161,23,6.78,128.0,4510.0,2020,high
+8.3 5G 8/128GB Polar Night,other,Android,1055,18,6.81,128.0,4500.0,2020,high
+800 Tough Black,other,missing,609,37,2.4,4.0,2100.0,2019,medium-low
+800 Tough Sand,other,missing,560,27,2.4,4.0,2100.0,2020,medium-low
+8A 2/32GB Gold,other,Android,383,1,6.09,32.0,3020.0,2019,medium-low
+8A 3/64GB Blue,other,Android,430,2,6.09,64.0,3020.0,2019,medium-low
+8S 2/32GB Black (51093ULM),other,Android,767,1,5.7,32.0,3020.0,2019,low
+8T 12/256GB Cyberpunk 2077 Limited Edition,other,Android,938,2,6.55,256.0,4500.0,2021,high
+8T 12/256GB Lunar Silver,other,Android,1159,29,6.55,256.0,4500.0,2020,high
+8T 8/128GB Aquamarine Green,other,Android,1157,35,6.55,128.0,4500.0,2020,high
+8x Max 4/64GB Black,other,Android,694,2,7.12,64.0,5000.0,2018,medium-high
+8x Max 4/64GB Blue,other,Android,303,3,7.12,64.0,5000.0,2018,medium-high
+9 4/64GB Dual Blue,other,Android,660,5,5.15,64.0,3200.0,2017,medium-low
+9 Lite 3/32GB Midnight Black,other,Android,142,3,5.65,32.0,3000.0,2018,medium-low
+9i 3/32GB Black,other,Android,342,2,5.84,32.0,3000.0,2020,medium-low
+9i 4/64GB Blue,other,Android,216,1,5.84,64.0,3000.0,2018,medium-low
+9x 4/128GB Black,other,Android,1048,3,6.59,128.0,4000.0,2019,medium-high
+A1 Dual Black,other,missing,83,4,2.4,0.032,2000.0,2019,low
+A1 Dual Gold,other,missing,384,26,2.4,0.032,2000.0,2019,low
+A1 Silver,other,missing,440,32,2.4,-1.0,2000.0,2019,low
+A10 6/128GB Black,other,Android,2,11,5.7,128.0,4400.0,2020,medium-high
+A12 3/32GB Black,other,Android,1024,15,6.22,32.0,4230.0,2020,medium-low
+A12 4/64GB Blue,other,Android,705,4,6.22,64.0,4230.0,2020,medium-low
+A144 Black/Red,other,missing,519,2,1.77,0.032,600.0,2019,low
+A167 Black/Red,other,missing,172,3,3.2,-1.0,1000.0,2020,low
+A169 Black Gray,other,missing,11,2,1.77,-1.0,1000.0,2020,low
+A170 Point Black,other,missing,411,20,1.77,-1.0,600.0,2019,low
+A170 Point Dark Blue,other,missing,106,20,1.77,-1.0,600.0,2019,low
+A173 Black/Orange,other,missing,204,1,1.77,0.032,800.0,2018,low
+A225 Black,other,missing,295,1,2.4,0.032,1000.0,2018,low
+A240 Experience Red,other,missing,63,19,2.4,-1.0,800.0,2019,low
+A281 Force Black,other,missing,947,23,2.8,-1.0,6000.0,2019,low
+A30 2/16GB Black,other,Android,240,2,5.5,16.0,2500.0,2018,low
+A31 4/64GB Mystery Black,other,Android,897,18,6.5,64.0,4230.0,2020,medium-low
+A5 2020 3/64GB Black,other,Android,833,4,6.5,64.0,5000.0,2019,medium-low
+A50 GRANITE 2/16GB Black,other,Android,617,1,5.0,16.0,2700.0,2018,low
+A512 Harmony Pro DS Black,other,Android,302,1,5.0,16.0,3200.0,2019,low
+A52 4/64GB Twilight Black,other,Android,1094,65,6.5,64.0,5000.0,2020,medium-high
+A53 4/128GB Electric Black,other,Android,985,19,6.5,128.0,5000.0,2020,medium-high
+A53 4/64GB Black,other,Android,1145,66,6.5,64.0,5000.0,2020,medium-high
+A5L+ 2/16GB Grey,other,Android,650,4,5.5,16.0,2650.0,2020,low
+A5s 3/32Gb Blue,other,Android,478,2,6.2,32.0,4230.0,2019,medium-low
+A60 1/16GB Black,other,Android,857,42,6.1,16.0,4080.0,2019,low
+A60 Plus 4/64GB Black,other,Android,1027,8,6.08,64.0,4080.0,2020,medium-low
+A60 Pro 3/16GB Black,other,Android,904,15,6.08,16.0,4080.0,2019,low
+A7 2/32GB L19111 Blue,other,Android,82,5,6.09,32.0,4000.0,2020,medium-low
+A7 Pro 4/128GB Black,other,Android,29,4,6.3,128.0,4150.0,2020,medium-low
+A7 Pro 4/64GB Black,other,Android,419,2,6.3,64.0,4150.0,2020,medium-low
+A72 4/128GB Aurora Purple,other,Android,948,11,6.5,128.0,5000.0,2020,medium-high
+A73 4/128GB Navy Blue,other,Android,1097,55,6.44,128.0,4015.0,2020,medium-high
+A7S 2/32GB Black,other,Android,622,1,6.53,32.0,4150.0,2020,low
+A8 3/32GB Black,other,Android,74,3,5.0,32.0,-1.0,2017,medium-low
+A80 2/16GB Red,other,Android,578,10,6.21,16.0,4200.0,2020,low
+A80 Pro 4/64GB Black,other,Android,1018,26,6.49,64.0,4680.0,2020,medium-low
+A9 2020 4/128GB Marine Green,other,Android,73,1,6.5,128.0,5000.0,2019,medium-high
+A9 2020 4/128GB Space Purple,other,Android,814,1,6.5,128.0,5000.0,2019,medium-high
+A9 4/32GB Black,other,Android,797,10,5.99,32.0,5400.0,2019,medium-high
+A9 4/64GB Black,other,Android,704,14,5.99,64.0,5400.0,2019,medium-high
+A91 8/128GB Black,other,Android,1124,21,6.4,128.0,4025.0,2020,medium-high
+AS-201 Dual Sim Blue,other,missing,316,11,2.4,0.064,1500.0,2018,low
+AS-203 Dual Sim Black,other,missing,377,20,2.2,0.032,1000.0,2019,low
+Action-X3 3/32GB Black,other,Android,155,1,5.0,32.0,3500.0,2020,medium-low
+Aquos D10 4/64GB Black,other,Android,632,7,5.99,64.0,2900.0,2019,medium-high
+Armor 10 5G 8/128GB Black,other,Android,146,5,6.67,128.0,5800.0,2021,high
+Armor 3W 6/64GB Black,other,Android,314,6,5.7,64.0,-1.0,2020,medium-high
+Armor 3WT 6/64GB Black,other,Android,148,3,5.7,64.0,10300.0,2019,medium-high
+Armor 7E 4/128GB Black,other,Android,671,10,6.3,128.0,5500.0,2020,medium-high
+Armor 8 4/64GB Black (6937748733744),other,Android,865,29,6.1,64.0,5500.0,2020,medium-high
+Armor 9 8/128GB Black (6937748733515),other,Android,1009,20,6.3,128.0,6600.0,2020,high
+Armor 9E 8/128GB Black (6937748733805),other,Android,816,17,6.3,128.0,6600.0,2020,high
+Armor Mini Black,other,missing,318,57,2.4,0.032,2500.0,2018,low
+Armor Mini Red,other,missing,52,7,2.4,0.032,2500.0,2018,low
+Armor X3 2/32GB Black,other,Android,395,29,5.5,32.0,5000.0,2020,medium-low
+Armor X5 3/32GB Red (6937748733256),other,Android,788,38,5.5,32.0,5000.0,2020,medium-low
+Armor X5 Pro 4/64GB Black (6937748733829),other,Android,1010,28,5.5,64.0,5000.0,2020,medium-low
+Armor X6 2/16GB Orange,other,Android,662,38,5.0,16.0,4000.0,2020,medium-low
+Armor X7 2/16GB Orange,other,Android,546,38,5.0,16.0,-1.0,2020,medium-low
+Armor X7 Pro 4/32GB Black,other,Android,998,35,5.0,32.0,4000.0,2020,medium-low
+Armor X8 4/64GB Black,other,Android,1035,33,5.7,64.0,5080.0,2020,medium-low
+B181 DUAL SIM BLACK,other,missing,621,19,1.8,0.032,800.0,2020,low
+B1P DS Champagne Gold,other,Android,110,1,5.45,8.0,4000.0,2019,low
+B200RX (White),other,missing,390,30,2.0,0.064,1300.0,2016,low
+B200RX (Yellow),other,missing,599,28,2.0,0.064,1300.0,2016,low
+B241 Black,other,missing,448,19,2.4,0.032,1200.0,2020,low
+B26 Black,other,missing,1084,52,2.4,-1.0,1500.0,2019,low
+B505 Unit 4G Dual Sim Black,other,Android,49,1,5.0,8.0,2500.0,2018,low
+BL5000 Black (6924351609900),other,Android,25,1,5.5,64.0,5050.0,2017,medium-low
+BL5500 Lite 2/16GB Dual Sim Gold,other,Android,540,2,6.19,16.0,5500.0,2019,low
+BV1000 Black,other,missing,688,22,2.4,0.032,3000.0,2019,low
+BV4900 3/32GB Black,other,Android,877,23,5.7,32.0,5580.0,2020,medium-low
+BV4900 Pro 4/64GB Orange,other,Android,869,13,5.7,64.0,5580.0,2021,medium-low
+BV5100 4/128GB Green,other,Android,515,13,5.7,128.0,5580.0,2020,medium-low
+BV5100 Pro 4/128GB Black,other,Android,138,22,5.7,128.0,5580.0,2021,medium-high
+BV5500 2/16GB Black,other,Android,772,54,5.5,16.0,4400.0,2019,low
+BV5500 Plus 3/32GB Black,other,Android,1023,25,5.5,32.0,4400.0,2020,low
+BV5500 Pro 3/16GB Black,other,Android,553,47,5.5,16.0,4400.0,2019,medium-low
+BV5800 Pro 2/16GB Black,other,Android,425,1,5.5,16.0,5580.0,2018,low
+BV5900 3/32GB Black,other,Android,659,26,5.7,32.0,5580.0,2019,medium-low
+BV6100 3/16GB Black,other,Android,806,23,6.88,16.0,5580.0,2019,medium-low
+BV6300 3/32GB Black,other,Android,849,29,5.7,32.0,4380.0,2020,medium-low
+BV6300 Pro 6/128GB Black,other,Android,882,28,5.7,128.0,4380.0,2020,medium-high
+BV6800 Pro 4/64GB Black,other,Android,821,55,5.7,64.0,6580.0,2018,medium-high
+BV6900 4/64GB Black,other,Android,764,10,5.84,64.0,5580.0,2020,medium-low
+BV8000 Pro Lion Gold,other,Android,536,19,5.0,64.0,4180.0,2017,medium-low
+BV9100 4/64GB Black,other,Android,954,13,6.3,64.0,13000.0,2019,medium-high
+BV9500 Black,other,Android,562,5,5.7,64.0,10000.0,2018,medium-high
+BV9500 Plus 4/64GB Black,other,Android,792,17,5.7,64.0,10000.0,2019,medium-high
+BV9500 Pro 6/128GB Black,other,Android,612,7,5.7,128.0,10000.0,2018,medium-high
+BV9600 4/64GB Silver,other,Android,104,20,6.21,64.0,5580.0,2019,medium-high
+BV9600 Pro 6/128GB Black,other,Android,373,10,6.21,128.0,5580.0,2019,medium-high
+BV9600E 4/128GB Grey,other,Android,533,18,6.21,128.0,5580.0,2020,medium-high
+BV9700 Pro 6/128GB Black,other,Android,898,20,5.84,128.0,4380.0,2019,medium-high
+BV9700 Pro 6/128GB Black + Night Vision Camera,other,Android,77,3,5.84,128.0,4380.0,2019,medium-high
+BV9800 6/128Gb Black,other,Android,293,14,6.3,128.0,6580.0,2020,medium-high
+BV9800 Pro 6/128GB Orange,other,Android,879,30,6.3,128.0,6580.0,2020,high
+BV9900 8/256GB Black,other,Android,732,14,5.84,256.0,4380.0,2020,medium-high
+BV9900 Pro 8/128GB Gray,other,Android,802,6,5.84,128.0,4380.0,2020,high
+BV9900E 6/128GB Black,other,Android,918,21,5.84,128.0,4380.0,2020,medium-high
+Bison 6/128GB Red,other,Android,884,4,6.3,128.0,5000.0,2020,medium-high
+Black Shark 2 Pro 8/128GB Black,Xiaomi,Android,150,2,6.39,128.0,4000.0,2019,high
+Black Shark 2 Pro 8/128GB Iceberg Grey,Xiaomi,Android,43,11,6.39,128.0,4000.0,2019,high
+Black Shark 3 12/256GB Black,Xiaomi,Android,726,4,6.67,256.0,4720.0,2020,high
+Black Shark 3 8/128GB Black,Xiaomi,Android,1098,31,6.67,128.0,4720.0,2020,high
+Black Shark 8/128GB Black,Xiaomi,Android,53,1,5.99,128.0,4000.0,2018,high
+Blade 20 Smart 4/128GB Gradient Green,other,Android,1083,48,6.49,128.0,5000.0,2019,medium-low
+Blade A3 2020 1/32GB Blue,other,Android,700,56,5.45,32.0,2600.0,2020,low
+Blade A3 2020 1/32GB Grey,other,Android,619,43,5.45,32.0,2600.0,2020,low
+Blade A3 2020 1/32GB Red,other,Android,446,47,5.45,32.0,2600.0,2020,low
+Blade A5 2/16GB Black,other,Android,782,1,5.45,16.0,2600.0,2019,low
+Blade A5 2/16GB Blue,other,Android,601,1,5.45,16.0,2600.0,2019,low
+Blade A5 2/32GB Black,other,Android,706,4,5.45,32.0,2600.0,2020,low
+Blade A5 2/32GB Blue,other,Android,529,8,5.45,32.0,2600.0,2019,low
+Blade A5 2020 2/32GB Black,other,Android,942,44,6.08,32.0,3200.0,2019,low
+Blade A7 2019 2/32GB Black,other,Android,978,34,6.1,32.0,3200.0,2019,low
+Blade A7 2020 2/32GB Gradient,other,Android,1016,56,6.08,32.0,4000.0,2019,medium-low
+Blade A7 2020 3/64GB Gradient,other,Android,1071,53,6.08,64.0,4000.0,2019,medium-low
+Blade A7S 2/64GB Blue,other,Android,775,38,6.5,64.0,4000.0,2020,medium-low
+Blade L210 1/32GB Black,other,Android,642,39,6.0,32.0,2600.0,2020,low
+Blade L210 1/32GB Blue,other,Android,399,42,6.0,32.0,2600.0,2020,low
+Blade L8 1/16GB Black,other,Android,750,44,5.0,16.0,2000.0,2019,low
+Blade L8 1/16GB Blue,other,Android,691,45,5.0,16.0,2000.0,2019,low
+Blade V2020 Smart 4/128GB Grey,other,Android,951,45,6.82,128.0,5000.0,2020,medium-low
+Blade V2020 Smart 4/64GB Grey,other,Android,941,43,6.82,64.0,5000.0,2020,medium-low
+C11 2/32GB Green,other,Android,753,5,6.5,32.0,5000.0,2020,medium-low
+C11 2/32GB Grey,other,Android,930,9,6.5,32.0,5000.0,2020,medium-low
+C18 Pro 4/64GB Purple,other,Android,386,10,6.55,64.0,4000.0,2020,medium-low
+C19 2/16GB Black,other,Android,610,3,6.49,16.0,4000.0,2020,low
+C19 2/16GB Gradient Blue,other,Android,497,4,6.49,16.0,4000.0,2020,low
+C2 2/32GB Diamond Black,other,Android,634,1,6.1,32.0,4000.0,2020,medium-low
+C21 4/64GB Black,other,Android,1044,11,6.4,64.0,4000.0,2020,medium-low
+C3 2/32GB Blue,other,Android,936,10,6.5,32.0,5000.0,2020,medium-low
+C3 2/32GB Red,other,Android,738,11,6.5,32.0,5000.0,2020,medium-low
+C3 3/32GB Red,other,Android,665,1,6.5,32.0,5000.0,2020,medium-low
+C3 3/64GB Blue,other,Android,1153,17,6.5,64.0,5000.0,2020,medium-low
+C30 8/128GB Black,other,Android,625,4,6.4,128.0,4200.0,2020,medium-high
+C552 Black,other,Android,307,1,5.0,4.0,2000.0,2018,low
+C552 Red,other,Android,319,1,5.0,4.0,2000.0,2018,low
+C9 2/16GB Black,other,Android,907,1,5.45,16.0,3000.0,2018,low
+C9 Pro 3/32GB Black,other,Android,161,1,5.45,32.0,3000.0,2018,low
+CORE-X3 2/16GB Dark Blue,other,Android,62,1,5.0,16.0,3500.0,2020,medium-low
+Camon 12 Air CC6 Alpenglow Gold,other,Android,449,2,6.55,32.0,4000.0,2019,medium-low
+Camon 12 CC7 Dark Jade,other,Android,522,12,6.52,64.0,4000.0,2019,medium-low
+Camon 15 4/64GB Dark Jade (4895180755057),other,Android,876,6,6.6,64.0,5000.0,2020,medium-low
+Camon 15 CD7 4/128GB Fascinating Purple (4895180759550),other,Android,252,3,6.6,128.0,5000.0,2020,medium-low
+Comfort 50 Elegance3 SIMO ASSISTANT Red,Sigma mobile,missing,583,31,2.8,-1.0,1600.0,2018,low
+Comfort 50 Grand Black,Sigma mobile,missing,200,39,2.3,-1.0,1000.0,2019,low
+Comfort 50 HIT 2020 Black,Sigma mobile,missing,990,24,1.77,-1.0,1450.0,2019,low
+Comfort 50 SOLO Black,Sigma mobile,missing,253,38,2.2,-1.0,1650.0,2019,low
+Comfort 50 Shell Duo Red (4827798212325),Sigma mobile,missing,1021,22,-1.0,-1.0,800.0,2016,low
+Cool Play 6 6/64GB Black,other,Android,271,2,5.5,64.0,4060.0,2018,medium-low
+Core 50 16GB Red,other,Android,245,5,5.0,16.0,2000.0,2018,low
+D6 Pro 2/16GB Black,other,Android,159,1,5.5,16.0,2700.0,2019,low
+D855 G3 32GB (Silk White),other,Android,494,1,5.5,32.0,3000.0,2014,medium-low
+D858 G3 Dual (Metallic Black),other,Android,488,1,5.5,32.0,3000.0,2015,medium-low
+Droid Turbo 2 32GB (Ballistic Nylon Black),Motorola,Android,269,1,5.4,32.0,3760.0,2015,medium-high
+E169 Gray,other,missing,746,22,2.4,-1.0,1600.0,2019,low
+E169 Red,other,missing,397,30,2.4,-1.0,1600.0,2019,low
+E180 2019 Red (680576170057),other,missing,56,33,1.77,0.032,800.0,2019,low
+E240 Black,other,missing,389,36,2.4,0.032,1800.0,2018,low
+E240 Power DualSim Black (680576170088),other,missing,335,24,2.4,0.032,3000.0,2020,low
+E280 Dual Sim Black,other,missing,251,2,2.8,0.032,1450.0,2017,low
+E450A 2018 DualSim Black,other,Android,563,18,4.5,8.0,1500.0,2018,low
+E450R DualSim Gray,other,Android,571,5,4.5,8.0,2600.0,2017,low
+E500A 2019 DualSim Black,other,Android,670,6,5.0,8.0,2500.0,2019,low
+E6 Plus 4/64GB Polish Grey,Motorola,Android,79,1,6.1,64.0,3000.0,2020,medium-low
+E6 Plus XT2025-2 4/64GB Blue,Motorola,Android,762,2,6.1,64.0,3000.0,2020,medium-low
+E6S 4/64 GB Meteor Grey (PAJE0031RS),Motorola,Android,1178,30,6.1,64.0,3000.0,2020,medium-low
+E7 Plus 4/64GB Misty Blue (PAKX0008RS),Motorola,Android,929,5,6.5,64.0,5000.0,2020,medium-low
+Edge 5G 6/128GB Dual Black (XT2063-3),Motorola,Android,1131,20,6.7,128.0,4500.0,2020,high
+F186 Solace DS Black,other,missing,901,19,1.77,0.032,1000.0,2019,low
+F186 Solace DS Silver,other,missing,523,6,1.77,0.032,1000.0,2019,low
+F188 Play DS Black,other,missing,333,10,1.77,-1.0,1000.0,2020,low
+F243 Swift Dual Sim Black,other,missing,151,2,2.4,0.032,1800.0,2017,low
+F243 Swift Dual Sim Blue,other,missing,122,1,2.4,0.032,1800.0,2018,low
+F245 Strength Dual Sim Yellow/Black,other,missing,12,1,2.4,0.032,1400.0,2020,low
+F248 Defender Dual SIM Black,other,missing,45,1,2.4,-1.0,2000.0,2019,low
+F282 Travel Dual Sim Black,other,missing,556,4,2.8,0.032,3100.0,2018,low
+F284 Balance Dual Sim Black,other,missing,227,13,2.8,-1.0,800.0,2020,low
+F285 Wide DS Black,other,missing,186,8,2.0,-1.0,1800.0,2019,low
+F534L 2018 DualSim Black,other,Android,600,8,5.3,16.0,3020.0,2018,low
+F534L 2018 DualSim Gold,other,Android,473,3,5.3,16.0,3020.0,2018,low
+F572L 2018 DualSim Red,other,Android,181,2,5.7,16.0,3020.0,2018,low
+F572L 2018 DualSim Silver,other,Android,567,4,5.7,16.0,3020.0,2018,low
+FF243 (Black),other,missing,442,32,2.4,0.032,1700.0,2016,low
+FF249 Dual Sim Black,other,missing,905,55,2.4,0.032,4000.0,2018,low
+FF250 Black,other,missing,773,25,2.4,-1.0,800.0,2020,low
+FF281 Dual Sim (Black),other,missing,653,28,2.8,0.032,1400.0,2016,low
+FF281 Silver,other,missing,502,19,2.8,0.032,1400.0,2020,low
+Find X2 12/256GB Ocean Black,other,Android,590,2,6.7,256.0,4200.0,2020,high
+Find X2 Pro 12/512GB Orange,other,Android,474,4,6.7,512.0,4260.0,2021,high
+G6 32GB Black (H870S.ACISBK),other,Android,710,1,5.7,32.0,3300.0,2017,medium-low
+G6 64GB Black (LGH870DS.ACISBK),other,Android,637,1,5.7,64.0,3300.0,2017,medium-low
+G6 64GB Platinum (LGH870DS.ACISPL),other,Android,745,1,5.7,64.0,3300.0,2017,medium-low
+G6 G600L 4/64GB Black,other,Android,603,1,5.7,64.0,3300.0,2019,medium-low
+G6 G600L 4/64GB Platinum,other,Android,674,1,5.7,64.0,3300.0,2019,medium-low
+G6 Plus 128GB Gold,other,Android,96,1,5.7,128.0,3300.0,2017,medium-high
+G7 4/64GB Ceramic Black (XT1962-6),Motorola,Android,686,2,6.2,64.0,3000.0,2020,medium-low
+G7 ThinQ 4/64GB Aurora Black (LMG710EMW.ACISBK),other,Android,1030,2,6.1,64.0,3000.0,2018,medium-high
+G7 ThinQ 4/64GB Moroccan Blue (LMG710EMW.ACISBL),other,Android,923,2,6.1,64.0,3000.0,2018,medium-high
+G7 ThinQ 4/64GB Platinum Gray,other,Android,851,3,6.1,64.0,3000.0,2018,medium-high
+G7 ThinQ 4/64GB Raspberry Rose,other,Android,427,2,6.1,64.0,3000.0,2018,medium-high
+G8 Power 4/64GB Dual Sim Black (PAHF0007RS),Motorola,Android,925,27,6.4,64.0,5000.0,2020,medium-high
+G8 Power Lite 4/64GB Royal Blue (PAJC0017RS),Motorola,Android,840,12,6.5,64.0,5000.0,2020,medium-low
+G8 ThinQ 6/128GB Black,other,Android,906,1,6.1,128.0,3500.0,2019,medium-high
+G8X ThinQ 6/128GB Aurora Black,other,Android,931,21,6.4,128.0,4000.0,2020,high
+G8s ThinQ 6/128GB White,other,Android,988,21,6.21,128.0,3550.0,2020,high
+G9 Play 4/64GB Sapphire Blue (PAKK0016RS),Motorola,Android,1062,17,6.5,64.0,5000.0,2020,medium-low
+G9 Plus 4/128GB Navy Blue (PAKM0019RS),Motorola,Android,1160,46,6.81,128.0,5000.0,2020,medium-high
+G920F Galaxy S6 32GB (White Pearl),Samsung,Android,845,2,5.1,32.0,2550.0,2015,medium-low
+G925F Galaxy S6 Edge 32GB (White Pearl),Samsung,Android,325,1,5.1,32.0,2600.0,2015,medium-low
+G935FD Galaxy S7 Edge 32GB Gold (SM-G935FZDU),Samsung,Android,605,1,5.5,32.0,3600.0,2016,medium-high
+Galaxy A01 2/16GB Black (SM-A015FZKD),Samsung,Android,1163,33,5.7,16.0,3000.0,2020,medium-low
+Galaxy A01 Core 1/16GB Black (SM-A013FZKD),Samsung,Android,1073,50,5.3,16.0,3000.0,2020,low
+Galaxy A02s 3/32GB Blue (SM-A025FZBE),Samsung,Android,1078,25,6.5,32.0,5000.0,2021,medium-low
+Galaxy A10s 2019 SM-A107F 2/32GB Black (SM-A107FZKD),Samsung,Android,1129,24,6.2,32.0,4000.0,2019,medium-low
+Galaxy A11 2/32GB Black (SM-A115FZKN),Samsung,Android,1036,40,6.4,32.0,4000.0,2020,medium-low
+Galaxy A12 SM-A125F 3/32GB Black (SM-A125FZKUSEK),Samsung,Android,1008,63,6.5,32.0,5000.0,2021,medium-low
+Galaxy A12 SM-A125F 4/64GB Black (SM-A125FZKVSEK),Samsung,Android,1092,57,6.5,64.0,5000.0,2021,medium-high
+Galaxy A2 Core 2019 SM-A260 1/16GB Blue,Samsung,Android,100,8,5.0,16.0,2600.0,2019,medium-low
+Galaxy A20e SM-A202F 3/32GB Black SM-A202FZKD,Samsung,Android,1040,9,5.8,32.0,3000.0,2019,medium-low
+Galaxy A20e SM-A202F 3/32GB White (SM-A202FZWD),Samsung,Android,54,2,5.8,32.0,3000.0,2019,medium-low
+Galaxy A20s 2019 A207F 3/32GB Black (SM-A207FZKD),Samsung,Android,1017,13,6.5,32.0,4000.0,2019,medium-low
+Galaxy A21s 3/32GB Black (SM-A217FZKN),Samsung,Android,1059,46,6.5,32.0,5000.0,2020,medium-high
+Galaxy A30s 3/32GB Black (SM-A307FZKU),Samsung,Android,1072,4,6.4,32.0,4000.0,2019,medium-low
+Galaxy A30s 4/128GB White,Samsung,Android,261,1,6.4,64.0,4000.0,2019,medium-high
+Galaxy A30s 4/64GB Green (SM-A307FZGV),Samsung,Android,778,8,6.4,64.0,4000.0,2019,medium-high
+Galaxy A31 4/128GB Black (SM-A315FZKV),Samsung,Android,1115,74,6.4,128.0,5000.0,2020,medium-high
+Galaxy A31 4/64GB Black (SM-A315FZKU),Samsung,Android,1185,92,6.4,64.0,5000.0,2020,medium-high
+Galaxy A41 4/64GB Black (SM-A415FZKD),Samsung,Android,1173,19,6.1,64.0,3500.0,2020,medium-high
+Galaxy A50 2019 SM-A505F 4/128GB Black,Samsung,Android,736,16,6.4,128.0,4000.0,2019,medium-high
+Galaxy A50 2019 SM-A505F 4/64GB Blue (SM-A505FZBU),Samsung,Android,874,2,6.4,64.0,4000.0,2019,medium-high
+Galaxy A50 2019 SM-A505F 6/128GB Blue (SM-A505FZBQ),Samsung,Android,712,2,6.4,128.0,4000.0,2019,medium-high
+Galaxy A50s 2019 SM-A507FD 6/128GB Black,Samsung,Android,168,8,6.4,128.0,4000.0,2019,medium-high
+Galaxy A50s SM-A5070 6/128GB Prism Crush Green,Samsung,Android,70,5,6.4,128.0,4000.0,2020,medium-high
+Galaxy A51 2020 4/64GB Black (SM-A515FZKU),Samsung,Android,1192,83,6.5,64.0,4000.0,2020,medium-high
+Galaxy A51 2020 6/128GB Blue (SM-A515FZBW),Samsung,Android,1177,77,6.5,128.0,4000.0,2020,medium-high
+Galaxy A51 SM-A515F 2020 8/128GB Blue,Samsung,Android,783,20,6.5,128.0,4000.0,2020,medium-high
+Galaxy A51 SM-A515F 4/128GB Black,Samsung,Android,970,9,6.5,128.0,4000.0,2020,medium-high
+Galaxy A51 SM-A515F 6/128GB Metallic Silver (SM-A515FMSW),Samsung,Android,1039,66,6.5,128.0,4000.0,2020,medium-high
+Galaxy A6+ 3/32GB Gold (SM-A605FZDN),Samsung,Android,205,3,6.0,32.0,3500.0,2018,medium-high
+Galaxy A6+ 3/32GB Lavender,Samsung,Android,484,2,6.0,32.0,3500.0,2018,medium-high
+Galaxy A6+ 4/32GB Gold,Samsung,Android,346,4,6.0,32.0,3500.0,2018,medium-high
+Galaxy A7 2018 4/64GB Black (SM-A750FZKU),Samsung,Android,279,1,6.0,64.0,3300.0,2018,medium-high
+Galaxy A7 2018 4/64GB Blue (SM-A750FZBU),Samsung,Android,689,6,6.0,64.0,3300.0,2018,medium-high
+Galaxy A70 2019 SM-A7050 6/128GB Black,Samsung,Android,339,14,6.7,128.0,4500.0,2019,medium-high
+Galaxy A70 2019 SM-A7050 6/128GB Blue,Samsung,Android,173,11,6.7,128.0,4500.0,2019,medium-high
+Galaxy A70 2019 SM-A705F 6/128GB Black (SM-A705FZKU),Samsung,Android,611,9,6.7,128.0,4500.0,2019,medium-high
+Galaxy A71 2020 6/128GB Black (SM-A715FZKU),Samsung,Android,1209,79,6.7,128.0,4500.0,2020,high
+Galaxy A71 2020 SM-A715F 8/128GB Blue,Samsung,Android,957,20,6.7,128.0,4500.0,2020,high
+Galaxy A8+ 2018 32GB Gold (SM-A730FZDD),Samsung,Android,44,5,6.0,32.0,3500.0,2018,medium-high
+Galaxy A8+ 2018 32GB Orchid Gray (SM-A730FZVD),Samsung,Android,93,5,6.0,32.0,3500.0,2018,medium-high
+Galaxy A8+ 2018 4/64GB Orchid Gray,Samsung,Android,143,1,6.0,64.0,3500.0,2018,medium-high
+Galaxy A80 2019 8/128GB Black (SM-A805FZKD),Samsung,Android,423,1,6.7,128.0,3700.0,2019,high
+Galaxy A80 2019 A8050 8/128GB Black,Samsung,Android,310,6,6.7,128.0,3700.0,2019,high
+Galaxy A9 2018 6/128Gb Blue (SM-A920FZBD),Samsung,Android,472,4,6.3,128.0,3800.0,2018,medium-high
+Galaxy Fold 12/256GB Black,Samsung,Android,298,4,7.3,256.0,4380.0,2019,high
+Galaxy Fold 12/512GB Black (SM-F900FZKD),Samsung,Android,819,31,7.3,512.0,4380.0,2019,high
+Galaxy Fold 5G SM-F907B 12/512GB Black,Samsung,Android,304,10,7.3,512.0,4235.0,2020,high
+Galaxy Fold 5G SM-F907B 12/512GB Silver,Samsung,Android,330,10,7.3,512.0,4235.0,2020,high
+Galaxy J6 2018 2/32GB Gold (SM-J600FZDD),Samsung,Android,761,1,5.6,32.0,3000.0,2018,medium-low
+Galaxy M10 SM-M105F 2/16GB Black (SM-M105GDAG),Samsung,Android,132,6,6.22,16.0,3400.0,2019,medium-low
+Galaxy M10 SM-M105F 3/32GB Black,Samsung,Android,270,1,6.22,32.0,3400.0,2019,medium-low
+Galaxy M10 SM-M105F 3/32GB Blue,Samsung,Android,64,2,6.22,32.0,3400.0,2019,medium-low
+Galaxy M10S M107F 3/32GB Black,Samsung,Android,145,3,6.4,32.0,4000.0,2020,medium-low
+Galaxy M115 M11 3/32 Black (SM-M115FZKN),Samsung,Android,1049,8,6.4,32.0,5000.0,2020,medium-low
+Galaxy M21 4/64GB Black (SM-M215FZKU),Samsung,Android,1204,67,6.4,64.0,6000.0,2020,medium-high
+Galaxy M30 SM-M305F 4/64GB Gradation Blue,Samsung,Android,443,5,6.4,64.0,5000.0,2019,medium-high
+Galaxy M31 6/128GB Black (SM-M315FZKU),Samsung,Android,1214,44,6.4,128.0,6000.0,2020,medium-high
+Galaxy M31s 6/128GB Blue (SM-M317FZBN),Samsung,Android,1184,55,6.5,128.0,6000.0,2020,medium-high
+Galaxy M51 6/128GB Black (SM-M515FZKD),Samsung,Android,1220,55,6.7,128.0,7000.0,2020,medium-high
+Galaxy Note 10 SM-N9700 8/256GB Black (SM-N9700ZKD),Samsung,Android,568,5,6.3,256.0,3500.0,2019,high
+Galaxy Note 10 SM-N9700 8/256GB White,Samsung,Android,658,14,6.3,256.0,3500.0,2019,high
+Galaxy Note 10 SM-N970F 8/256GB Black (SM-N970FZKD),Samsung,Android,1172,53,6.3,256.0,3500.0,2019,high
+Galaxy Note 10+ SM-N9750 12/256GB Aura Glow,Samsung,Android,909,16,6.8,256.0,4300.0,2019,high
+Galaxy Note 10+ SM-N9750 12/512GB Black,Samsung,Android,421,1,6.8,512.0,4300.0,2019,high
+Galaxy Note 10+ SM-N975F 12/256GB Black (SM-N975FZKD),Samsung,Android,1113,49,6.8,256.0,4300.0,2019,high
+Galaxy Note 10+ SM-N975F 12/512GB Aura Black,Samsung,Android,233,3,6.8,512.0,4300.0,2019,high
+Galaxy Note 8 64GB Gold,Samsung,Android,744,3,6.3,64.0,3300.0,2017,medium-high
+Galaxy Note 8 N950F Single sim 128GB Black,Samsung,Android,184,6,6.3,128.0,3300.0,2018,high
+Galaxy Note 9 N960 6/128GB Metallic Copper,Samsung,Android,889,15,6.4,128.0,4000.0,2018,high
+Galaxy Note 9 N960 8/512GB Lavender Purple,Samsung,Android,164,3,6.4,512.0,4000.0,2018,high
+Galaxy Note 9 N960 8/512GB Metallic Copper,Samsung,Android,813,17,6.4,512.0,4000.0,2018,high
+Galaxy Note 9 N960 8/512GB Midnight Black,Samsung,Android,992,14,6.4,512.0,4000.0,2018,high
+Galaxy Note 9 N960 8/512GB Ocean Blue (SM-N960FZBH),Samsung,Android,714,16,6.4,512.0,4000.0,2018,high
+Galaxy Note10 Lite SM-N770F Dual 6/128GB Black (SM-N770FZKD),Samsung,Android,1182,77,6.7,128.0,4500.0,2020,high
+Galaxy Note10 Lite SM-N770F Dual 8/128GB Black (SM-N770FZKU),Samsung,Android,915,27,6.7,128.0,4500.0,2020,high
+Galaxy Note20 5G N9810 8/256GB Mystic Gray,Samsung,Android,956,34,6.7,256.0,4300.0,2020,high
+Galaxy Note20 5G SM-N981B 8/256GB Mystic Bronze,Samsung,Android,730,27,6.7,256.0,4300.0,2020,high
+Galaxy Note20 SM-N980F 8/256GB Mystic Green (SM-N980FZGG),Samsung,Android,1080,63,6.7,256.0,4300.0,2020,high
+Galaxy Note20 Ultra 5G SM-N9860 12/256GB Mystic Black,Samsung,Android,1146,33,6.9,256.0,4500.0,2020,high
+Galaxy Note20 Ultra 5G SM-N986B 12/256GB Mystic Black,Samsung,Android,1013,36,6.9,256.0,4500.0,2020,high
+Galaxy Note20 Ultra 5G SM-N986B 12/512GB Mystic Black (SM-N986BZKH),Samsung,Android,800,20,6.9,512.0,4500.0,2020,high
+Galaxy Note20 Ultra SM-N985F 8/256GB Mystic Bronze (SM-N985FZNG),Samsung,Android,1147,38,6.9,256.0,4500.0,2020,high
+Galaxy S10 Lite SM-G770 6/128GB Black (SM-G770FZKG),Samsung,Android,1190,4,6.7,128.0,4500.0,2020,high
+Galaxy S10 Lite SM-G770 8/128GB Black,Samsung,Android,1054,11,6.7,128.0,4500.0,2020,high
+Galaxy S10 SM-G973 DS 128GB Green (SM-G973FZGD),Samsung,Android,1199,64,6.1,128.0,3400.0,2019,high
+Galaxy S10 SM-G973 DS 512GB Black,Samsung,Android,198,13,6.1,512.0,3400.0,2019,high
+Galaxy S10 SM-G9730 DS 128GB Black,Samsung,Android,861,10,6.1,128.0,3400.0,2019,high
+Galaxy S10+ SM-G975 DS 128GB Black (SM-G975FZKD),Samsung,Android,1180,45,6.4,128.0,4000.0,2019,high
+Galaxy S10+ SM-G975 DS 1TB Black (SM-G975FCKH),Samsung,Android,847,22,6.4,1000.0,4000.0,2019,high
+Galaxy S10+ SM-G975 DS 1TB Ceramic White (SM-G975FCWH),Samsung,Android,795,22,6.4,1000.0,4000.0,2019,high
+Galaxy S10+ SM-G975 DS 512GB Black (SM-G975FCKG),Samsung,Android,910,26,6.4,512.0,4000.0,2019,high
+Galaxy S10+ SM-G975 DS 512GB White (SM-G975FCWG),Samsung,Android,828,28,6.4,512.0,4000.0,2019,high
+Galaxy S10+ SM-G975 SS 512GB White,Samsung,Android,413,1,6.4,512.0,4000.0,2019,high
+Galaxy S10+ SM-G9750 DS 128GB Black,Samsung,Android,817,9,6.4,128.0,4000.0,2019,high
+Galaxy S10+ SM-G9750 DS 1TB Black,Samsung,Android,66,3,6.4,1000.0,4000.0,2019,high
+Galaxy S10e SM-G970 DS 128GB Black (SM-G970FZKD),Samsung,Android,1122,23,5.8,128.0,3100.0,2019,high
+Galaxy S10e SM-G9700 DS 128GB Black,Samsung,Android,499,1,5.8,128.0,3100.0,2019,high
+Galaxy S20 5G SM-G981 12/128GB Cosmic Gray,Samsung,Android,1003,1,6.2,128.0,4000.0,2020,high
+Galaxy S20 5G SM-G9810 12/128GB Cloud Pink,Samsung,Android,1034,22,6.2,128.0,4000.0,2020,high
+Galaxy S20 FE 5G SM-G7810 8/128GB Cloud Navy,Samsung,Android,1181,20,6.5,128.0,4500.0,2020,high
+Galaxy S20 FE 5G SM-G7810 Dual 8/256GB Cloud Navy,Samsung,Android,913,14,6.5,256.0,4500.0,2021,high
+Galaxy S20 FE 5G SM-G781B 6/128GB Cloud Red,Samsung,Android,964,10,6.5,128.0,4500.0,2020,high
+Galaxy S20 FE 5G SM-G781B 8/128GB Cloud Red,Samsung,Android,396,1,6.5,128.0,4500.0,2021,high
+Galaxy S20 FE SM-G780F 6/128GB Blue (SM-G780FZBD),Samsung,Android,1197,79,6.5,128.0,4500.0,2020,high
+Galaxy S20 FE SM-G780F 6/256GB Cloud Navy,Samsung,Android,439,8,6.5,256.0,4500.0,2020,high
+Galaxy S20 FE SM-G780F 8/128GB Cloud Navy,Samsung,Android,899,16,6.5,128.0,4500.0,2020,high
+Galaxy S20 FE SM-G780F 8/256GB Blue (SM-G780FZBH),Samsung,Android,982,56,6.5,256.0,4500.0,2020,high
+Galaxy S20 SM-G980 8/128GB Grey (SM-G980FZAD),Samsung,Android,1210,65,6.2,128.0,4000.0,2020,high
+Galaxy S20 Ultra 5G SM-G9880 12/256GB Cosmic Gray,Samsung,Android,933,30,6.9,256.0,5000.0,2020,high
+Galaxy S20 Ultra 5G SM-G988B 12/128GB Black,Samsung,Android,984,30,6.9,128.0,5000.0,2020,high
+Galaxy S20 Ultra SM-G988 128GB Grey (SM-G988BZAD),Samsung,Android,1114,63,6.9,128.0,5000.0,2020,high
+Galaxy S20+ 5G SM-G9860 12/128GB Cosmic Black,Samsung,Android,1130,31,6.9,128.0,4500.0,2020,high
+Galaxy S20+ 5G SM-G9860 8/128GB Gray,Samsung,Android,192,2,6.7,128.0,4500.0,2020,high
+Galaxy S20+ 5G SM-G986B 12/128GB Black,Samsung,Android,321,3,6.7,128.0,4500.0,2020,high
+Galaxy S20+ 5G SM-G986F-DS 12/128GB Black,Samsung,Android,1011,35,6.7,128.0,4500.0,2020,high
+Galaxy S20+ LTE SM-G985 Dual 8/128GB Black (SM-G985FZKD),Samsung,Android,1070,87,6.7,128.0,4500.0,2020,high
+Galaxy S21 8/128GB Phantom Grey (SM-G991BZADSEK),Samsung,Android,1175,25,6.2,128.0,4000.0,2021,high
+Galaxy S21 8/256GB Phantom Grey (SM-G991BZAGSEK),Samsung,Android,1004,22,6.2,256.0,4000.0,2021,high
+Galaxy S21 Ultra 12/128GB Phantom Black (SM-G998BZKDSEK),Samsung,Android,1104,28,6.8,128.0,5000.0,2021,high
+Galaxy S21 Ultra 12/256GB Phantom Black (SM-G998BZKGSEK),Samsung,Android,1164,22,6.8,256.0,5000.0,2021,high
+Galaxy S21 Ultra 16/512GB Phantom Black (SM-G998BZKHSEK),Samsung,Android,1136,26,6.8,512.0,5000.0,2021,high
+Galaxy S21+ 8/128GB Phantom Black (SM-G996BZKDSEK),Samsung,Android,979,32,6.7,128.0,4800.0,2021,high
+Galaxy S21+ 8/256GB Phantom Black (SM-G996BZKGSEK),Samsung,Android,1006,27,6.7,256.0,4800.0,2021,high
+Galaxy S7 G930F 32GB (Black),Samsung,Android,824,1,5.1,32.0,3000.0,2016,medium-high
+Galaxy S7 G930F 32GB (Gold),Samsung,Android,685,3,5.1,32.0,3000.0,2016,medium-high
+Galaxy S8 64GB Blue,Samsung,Android,908,2,5.8,64.0,3000.0,2017,medium-high
+Galaxy S8 G950F Single Sim 64GB Black,Samsung,Android,886,1,5.8,64.0,3000.0,2018,medium-high
+Galaxy S8+ 64GB Black (SM-G955FZKD),Samsung,Android,871,7,6.2,64.0,3500.0,2017,high
+Galaxy S8+ SM-G955U 64GB Black,Samsung,Android,664,1,6.2,64.0,3500.0,2020,medium-high
+Galaxy S9 SM-G960 DS 128GB Black (SM-G960FZKG),Samsung,Android,167,1,5.8,128.0,3000.0,2018,high
+Galaxy S9 SM-G960 DS 128GB Blue,Samsung,Android,92,8,5.8,128.0,3000.0,2018,high
+Galaxy S9 SM-G960 DS 128GB Grey (SM-G960FZAG),Samsung,Android,17,1,5.8,128.0,3000.0,2018,high
+Galaxy S9 SM-G960 DS 128GB Purple (SM-G960FZPG),Samsung,Android,249,9,5.8,128.0,3000.0,2018,high
+Galaxy S9 SM-G960 DS 64GB Black (SM-G960FZKD),Samsung,Android,1105,5,5.8,64.0,3000.0,2018,high
+Galaxy S9 SM-G960U1 128GB Purple,Samsung,Android,426,1,5.8,128.0,3000.0,2020,high
+Galaxy S9+ SM-G965 DS 128GB Black,Samsung,Android,376,1,6.2,128.0,3500.0,2018,high
+Galaxy S9+ SM-G965 DS 128GB Blue,Samsung,Android,230,9,6.2,128.0,3500.0,2018,high
+Galaxy S9+ SM-G965 DS 128GB Grey,Samsung,Android,285,6,6.2,128.0,3500.0,2018,high
+Galaxy S9+ SM-G965 DS 128GB Purple,Samsung,Android,470,2,6.2,128.0,3500.0,2018,high
+Galaxy S9+ SM-G965 DS 256GB Black (SM-G965FZKH),Samsung,Android,517,15,6.2,256.0,3500.0,2018,high
+Galaxy S9+ SM-G965 DS 64GB Black (SM-G965FZKD),Samsung,Android,1135,16,6.2,64.0,3500.0,2018,high
+Galaxy Z Flip 5G SM-F707 8/256GB Mystic Bronze,Samsung,Android,696,13,6.7,256.0,3300.0,2020,high
+Galaxy Z Flip SM-F700 8/256GB Mirror Purple (SM-F700FZPD),Samsung,Android,1029,16,6.7,256.0,3300.0,2020,high
+Galaxy Z Fold2 12/256GB Mystic Black (SM-F916BZKQ),Samsung,Android,1099,33,7.6,256.0,4500.0,2020,high
+Grace A1 1281 Dual Sim Red (PFP1281DUORED),other,missing,207,6,2.8,0.032,950.0,2017,low
+H791 Nexus 5X 32GB (Mint),other,Android,191,1,5.2,32.0,2700.0,2015,medium-low
+H990 V20 Dual 64GB (Black),other,Android,880,1,5.7,64.0,3200.0,2016,medium-low
+H990 V20 Dual 64GB (Silver),other,Android,630,1,5.7,64.0,3200.0,2016,medium-low
+Hammer Energy Black,other,Android,4,1,5.0,16.0,5000.0,2017,medium-high
+K10 Note 4/64GB Black,other,Android,960,10,6.39,64.0,4050.0,2020,medium-low
+K10 Note 6/128GB Louise Lake,other,Android,436,1,6.39,128.0,4050.0,2020,medium-high
+K12 6/64 Black,other,Android,504,7,6.3,64.0,10000.0,2019,medium-high
+K13 4/64GB Black,other,Android,328,6,6.41,64.0,11000.0,2020,medium-high
+K13 4/64GB Pro Black,other,Android,506,9,6.41,64.0,11000.0,2020,medium-high
+K13 Pro Leather Black,other,Android,469,5,6.41,64.0,11000.0,2020,medium-high
+K5 Pro 4/64GB Black,other,Android,731,2,5.99,64.0,4050.0,2019,medium-low
+K9 4/64 Black,other,Android,467,4,7.12,64.0,6000.0,2019,medium-high
+KEYone,other,Android,916,2,4.5,32.0,3505.0,2017,medium-high
+King Kong CS,other,Android,115,5,5.0,16.0,4400.0,2020,low
+Kingkong mini 3/32GB Red,other,Android,811,4,4.0,32.0,2000.0,2020,medium-low
+Kingkong mini 3/32GB Yellow,other,Android,749,4,4.0,32.0,2000.0,2020,medium-low
+Lumia 925 (Black),other,other,199,1,4.5,16.0,2000.0,2013,low
+Lumia 925 (White),other,other,178,1,4.5,16.0,2000.0,2013,low
+M1 Art (Red),other,missing,6,1,1.77,-1.0,650.0,2015,low
+M10 2/32GB Black,other,Android,120,15,6.5,32.0,4000.0,2019,medium-low
+M10 2/32GB Red,other,Android,232,7,6.5,32.0,4000.0,2019,medium-low
+M10 3/32GB Black,other,Android,890,33,6.5,32.0,4000.0,2019,medium-low
+M10 3/32GB Blue,other,Android,119,13,6.5,32.0,4000.0,2019,medium-low
+M2 Gold,other,missing,380,11,2.4,-1.0,1970.0,2019,low
+M3 Black,other,missing,387,4,2.4,-1.0,1970.0,2019,low
+M5 Black,other,Android,668,4,2.8,8.0,2500.0,2020,medium-low
+M6 Note 3/16GB Black,other,Android,651,2,5.5,16.0,4000.0,2017,medium-low
+M6T 2/16GB Black,other,Android,345,3,5.7,16.0,3300.0,2018,low
+M6T 3/32GB Blue,other,Android,305,2,5.7,32.0,3300.0,2018,medium-low
+M6s 3/64GB Gold,other,missing,144,1,5.7,64.0,3000.0,2018,medium-low
+M8 4/64GB Black,other,Android,786,5,5.7,64.0,3100.0,2018,medium-low
+M8 4/64GB Blue,other,Android,482,9,5.7,64.0,3100.0,2019,medium-low
+MIX 2 6/64GB Black,other,Android,169,3,6.0,64.0,4060.0,2018,medium-low
+MM111,other,missing,453,11,1.4,0.032,460.0,2020,low
+MM135 Black-Blue,other,missing,48,16,1.77,-1.0,600.0,2019,low
+MM142 Black,other,missing,394,17,2.4,-1.0,1400.0,2019,low
+MM236 Black-Silver,other,missing,283,21,2.8,-1.0,950.0,2018,low
+MM320 Black,other,missing,242,2,3.2,-1.0,1000.0,2020,low
+MM426 Black,other,missing,747,8,1.77,0.032,600.0,2020,low
+MM471 White,other,missing,338,6,2.2,-1.0,1400.0,2020,low
+MM720 Black,other,missing,521,10,2.2,-1.0,800.0,2018,low
+MM817 Black,other,missing,414,13,2.4,-1.0,800.0,2020,low
+Mate 10 6/128GB Gold,other,Android,206,1,5.9,128.0,4000.0,2018,high
+Mate 10 6/256GB Porsche Design,other,Android,606,4,6.0,256.0,4000.0,2018,high
+Mate 20 DS 6/64GB Black,other,Android,566,2,6.53,64.0,4000.0,2019,high
+Mate RS Porsche Design 6/256GB Black,other,Android,785,3,6.0,256.0,4000.0,2020,high
+Mate Xs 8/512GB Interstellar blue (51095CSQ),other,Android,740,6,-1.0,512.0,4500.0,2020,high
+Mi 10 Lite 6/128GB Cosmic Grey,Xiaomi,Android,926,9,6.57,128.0,4160.0,2020,high
+Mi 10 Lite 6/64GB Cosmic Grey,Xiaomi,Android,1087,1,6.57,64.0,4160.0,2020,high
+Mi 10 Lite 8/256GB Dream White,Xiaomi,Android,836,6,6.57,256.0,4160.0,2020,high
+Mi 10 Pro 8/256GB Gray,Xiaomi,Android,1026,1,6.67,256.0,4500.0,2020,high
+Mi 10T 6/128GB Cosmic Black,Xiaomi,Android,1154,49,6.67,128.0,5000.0,2020,high
+Mi 10T 8/128GB Cosmic Black,Xiaomi,Android,1191,47,6.67,128.0,5000.0,2020,high
+Mi 10T Lite 6/128GB Pearl Gray,Xiaomi,Android,1133,26,6.67,128.0,4820.0,2020,medium-high
+Mi 10T Lite 6/64GB Pearl Gray,Xiaomi,Android,1037,5,6.67,64.0,4820.0,2020,medium-high
+Mi 10T Pro 8/128GB Cosmic Black,Xiaomi,Android,1152,17,6.67,128.0,5000.0,2020,high
+Mi 10T Pro 8/256GB Cosmic Black,Xiaomi,Android,1168,12,6.67,256.0,5000.0,2020,high
+Mi Max 2 4/64GB Black,Xiaomi,Android,393,1,6.44,64.0,5300.0,2017,medium-low
+Mi Note 10 Lite 6/64GB Purple,Xiaomi,Android,558,1,6.47,64.0,5260.0,2020,medium-high
+Mi5 3/32GB Gold,Xiaomi,Android,511,1,5.15,32.0,3000.0,2016,medium-low
+Mix 2 M2 4/64GB Black,other,Android,801,4,6.0,64.0,4200.0,2019,medium-low
+Mix 2 M2 4/64GB Blue,other,Android,559,4,6.0,64.0,4200.0,2018,medium-low
+Mobile GM8 Space Gray,other,Android,228,7,5.7,32.0,-1.0,2018,low
+Moto C Plus XT1723 16GB Gold (PA800126UA),Motorola,Android,75,1,5.0,16.0,4000.0,2017,medium-low
+Moto E4 (XT1762) Metallic Iron Gray (PA750058UA),Motorola,Android,153,1,5.0,16.0,2800.0,2017,low
+Moto E5 Plus XT1924-1 DualSim Black (PABA0014UA),Motorola,Android,183,1,6.0,32.0,5000.0,2018,medium-low
+Moto E5 XT1944 16GB black,Motorola,Android,203,1,5.7,16.0,4000.0,2018,low
+Moto G5 2/16GB Gold (PA610071UA),Motorola,Android,441,7,5.0,16.0,2800.0,2017,low
+Moto G5s (XT1794) Lunar Gray (PA7W0024UA),Motorola,Android,431,2,5.2,32.0,3000.0,2017,medium-low
+Moto G5s XT1799 4/64GB Black (PA930008CN),Motorola,Android,554,2,5.2,64.0,3000.0,2019,medium-low
+Moto G6 Play XT1922-5 Dual Sim 32GB Indigo Blue,Motorola,Android,147,1,5.7,32.0,4000.0,2018,medium-low
+Moto G6 Plus XT1926 Dual Sim 64GB Indigo Blue,Motorola,Android,385,2,5.9,64.0,3200.0,2018,medium-high
+Moto G7 Play XT1952-2 Dual Sim 2/32GB Deep Indigo,Motorola,Android,487,2,5.7,32.0,3000.0,2019,medium-low
+Moto G7 Power XT1955-4 4/64GB Ceramic Black,Motorola,Android,189,1,6.2,64.0,5000.0,2019,medium-high
+Moto G8 4/64GB Blue (PAHL0004RS),Motorola,Android,722,10,6.4,64.0,4000.0,2020,medium-high
+Moto G8 4/64GB White (PAHL0010RS),Motorola,Android,528,9,6.4,64.0,4000.0,2020,medium-high
+Moto G8 Plus XT2019-1 4/64GB Dual Sim Cosmic Blue (PAGE0015RS),Motorola,Android,1041,12,6.3,64.0,4000.0,2019,medium-high
+Moto G9 Power 4/128GB Gray (PALR0020RS),Motorola,Android,1149,3,6.4,128.0,5000.0,2020,medium-high
+Moto M Grey (PA5D0075UA),Motorola,Android,47,1,5.5,32.0,3050.0,2017,medium-low
+Moto X (2nd. Gen) (Black) 16GB,Motorola,Android,7,1,5.2,16.0,2300.0,2014,medium-low
+Moto X Force (Black),Motorola,Android,638,2,5.4,32.0,3760.0,2016,medium-high
+Moto X4 3/32GB Black (PA8X0004UA),Motorola,Android,170,1,5.2,32.0,3000.0,2017,medium-high
+Moto Z 32GB Black (SM4389AE7U1),Motorola,Android,174,1,5.5,32.0,2600.0,2016,medium-high
+Moto Z 32GB White/Gold (SM4389AD1U1),Motorola,Android,196,4,5.5,32.0,2600.0,2016,medium-low
+Moto Z2 Force 6/64GB Black (PA900007UA),Motorola,Android,808,2,5.5,64.0,2730.0,2017,medium-high
+Moto Z2 Force SS 4/64GB Fine Gold,Motorola,Android,703,1,5.5,64.0,2730.0,2020,medium-high
+Moto Z2 Play Fine Gold (SM4482AJ1K7),Motorola,Android,46,2,5.5,64.0,3000.0,2017,medium-high
+Moto Z2 Play Lunar Grey (SM4482AC3K7),Motorola,Android,322,2,5.5,64.0,3000.0,2017,medium-high
+Moto Z3 Play 4/64GB Deep Indgo,Motorola,Android,374,2,6.01,64.0,3000.0,2018,medium-high
+Moto Z4 4/128GB Flash Gray,Motorola,Android,503,2,6.4,128.0,3600.0,2019,high
+N1-550 Cruiser Dual Sim Black,other,Android,35,1,5.5,16.0,4500.0,2018,low
+N10 3/32GB Purple,other,Android,614,1,5.84,32.0,3360.0,2019,low
+N20 4/64GB Black,other,Android,875,10,6.3,64.0,4350.0,2019,medium-low
+N20 Pro 6/128GB Green,other,Android,959,24,6.3,128.0,4400.0,2020,medium-low
+N30 4/128GB Dreamy Blue,other,Android,672,8,6.55,128.0,4500.0,2020,medium-low
+N920C Galaxy Note 5 32GB (Gold Platinum),Samsung,Android,31,1,5.7,32.0,3000.0,2015,medium-high
+Neon A1,other,missing,463,2,1.77,0.032,800.0,2017,low
+Nexus 6 32GB (Cloud White),Motorola,Android,340,1,5.3,32.0,3220.0,2015,medium-low
+Nord 12/256GB Gray Onyx,other,Android,1096,25,6.44,256.0,4115.0,2020,high
+Nord 8/128GB Gray Onyx,other,Android,1109,19,6.44,128.0,4115.0,2020,high
+Nord N10 5G 6/128GB Midnight Ice,other,Android,1194,28,6.49,128.0,4300.0,2020,medium-high
+Nord N100 4/64GB Midnight Frost,other,Android,965,28,6.52,64.0,5000.0,2020,medium-high
+Note 20 Pro 6/128GB Black,other,Android,962,4,6.5,128.0,4200.0,2020,medium-low
+Note 20 Pro 8/128GB Black,other,Android,576,1,6.5,128.0,4200.0,2021,medium-low
+Note 7P 3/32GB Twilight,other,Android,28,17,6.1,32.0,3500.0,2019,medium-low
+Note 8P 2/16GB Black,other,Android,312,33,5.5,16.0,2700.0,2020,low
+Note 8P 2/16GB Midnight Green,other,Android,211,23,5.5,16.0,2700.0,2020,low
+Note 9 4/64GB Black,other,Android,1167,34,6.2,64.0,4000.0,2019,medium-low
+Nova 4 8/128GB Black,other,Android,81,3,6.4,128.0,3750.0,2019,medium-high
+Nubia Z17 8/64GB Black,other,Android,220,1,5.5,64.0,3200.0,2018,medium-high
+One Action 4/128GB XT2013-2 Blue,Motorola,Android,839,1,6.34,128.0,3500.0,2019,medium-low
+One Action 4/128GB XT2013-2 White,Motorola,Android,855,1,6.34,128.0,3500.0,2019,medium-low
+One Fusion 4/64GB Deep Sapphire Blue,Motorola,Android,481,1,6.5,64.0,5000.0,2020,medium-high
+One Fusion+ 6/128GB Blue (PAJW0006RS),Motorola,Android,1148,15,6.5,128.0,5000.0,2020,medium-high
+One Hyper XT2027-1 4/128GB Deep Sea Blue,Motorola,Android,531,3,6.5,128.0,4000.0,2020,medium-high
+One Macro XT2016-1 4/64GB Blue,Motorola,Android,135,1,6.2,64.0,4000.0,2020,medium-low
+One Power XT1942-1 4/64GB Dual Sim Black,Motorola,Android,512,1,6.2,64.0,5000.0,2019,medium-high
+One Vision 4/128GB Bronze,Motorola,Android,382,1,6.3,128.0,3500.0,2019,medium-high
+One Vision 4/128GB Sapphire Blue,Motorola,Android,881,2,6.3,128.0,3500.0,2019,medium-high
+One XT1941-4 4/64GB Dual Sim Black,Motorola,Android,480,1,5.9,64.0,3000.0,2018,medium-low
+One Zoom 4/128GB Grey,Motorola,Android,759,1,6.4,128.0,4000.0,2019,medium-high
+One Zoom 4/128GB Purple,Motorola,Android,569,1,6.4,128.0,4000.0,2020,medium-high
+P Smart 2020 4/128GB Emerald Green,other,Android,641,18,6.21,128.0,3400.0,2020,medium-low
+P Smart Pro 6/128GB Midnight Black (51094UVB),other,Android,994,4,6.59,128.0,4000.0,2019,medium-high
+P Smart S 4/128GB Breathing Crystal (51095HVM),other,Android,914,23,6.3,128.0,4000.0,2020,medium-high
+P smart 2019 3/64GB Black (51093FSW),other,Android,825,11,6.21,64.0,3400.0,2018,medium-low
+P smart 2021 4/128GB Midnight Black (51096ABV),other,Android,1038,39,6.67,128.0,5000.0,2020,medium-high
+P smart Z 4/64GB Emerald Green (51093WVK),other,Android,1076,18,6.59,64.0,4000.0,2019,medium-high
+P smart+ 4/64GB Black (51092TFB),other,Android,500,1,6.3,64.0,3340.0,2018,medium-high
+P30 4/64GB Black,other,Android,495,11,6.3,64.0,4000.0,2020,medium-low
+P30 6/128GB Black (51093NDK),other,Android,993,17,6.1,128.0,3650.0,2019,high
+P30 8/128GB Black,other,Android,711,1,6.1,128.0,3650.0,2019,high
+P30 Lite 4/128GB Breathing Crystal,other,Android,856,3,6.15,128.0,3340.0,2020,medium-high
+P30 Lite 6/256GB Peacock Blue,other,Android,1000,17,6.15,256.0,3340.0,2020,medium-high
+P30 Pro 6/128GB Black (51093TFT),other,Android,1056,14,6.47,128.0,4200.0,2019,high
+P30 Pro 8/128GB Aurora,other,Android,1079,19,6.47,128.0,4200.0,2019,high
+P30 Pro 8/256GB Black (51093NFN),other,Android,1089,1,6.47,256.0,4200.0,2019,high
+P30 Pro NEW EDITION 8/256GB Silver Frost,other,Android,1057,18,6.47,256.0,4200.0,2020,high
+P40 8/128GB Black (51095EHY),other,Android,1064,18,6.1,128.0,3800.0,2020,high
+P40 Pro 8/256GB Silver Frost (51095CAL),other,Android,1075,9,6.58,256.0,4200.0,2020,high
+P40 Pro+ 8/512GB Black Ceramic,other,other,417,10,6.58,512.0,4200.0,2020,high
+P40 lite 6/128GB Crush Green (51095CJX),other,Android,1061,43,6.4,128.0,4000.0,2020,medium-high
+P40 lite E 4/64GB Midnight Black (51095DCE),other,Android,1134,54,6.39,64.0,4000.0,2020,medium-low
+P600 Black,other,Android,301,1,5.5,16.0,4000.0,2019,low
+P600 Gold,other,Android,326,1,5.5,16.0,4000.0,2019,low
+P760 Black,other,Android,391,1,5.5,16.0,4000.0,2019,low
+P8 Prestige Gold,other,Android,241,1,5.2,16.0,2680.0,2015,medium-low
+POP 2F B1F 1/16GB Midnight Black (4895180746659),other,Android,794,25,5.5,16.0,2400.0,2019,low
+POP 3 BB2 1/16GB DS Sandstone Black (4895180751288),other,Android,468,39,5.7,16.0,3500.0,2020,low
+POP 4 BC2 2/32GB DS Ice Lake Green (4895180759420),other,Android,864,11,6.0,32.0,5000.0,2020,low
+Pixel 128GB (Quite Black),other,Android,520,4,5.0,128.0,2770.0,2016,medium-high
+Pixel 2 128GB Just Black,other,Android,718,9,5.0,128.0,2700.0,2017,high
+Pixel 2 64GB Just Black,other,Android,895,9,5.0,64.0,2700.0,2017,medium-high
+Pixel 2 XL 64GB Just Black,other,Android,1050,8,6.0,64.0,3520.0,2017,high
+Pixel 3 4/128GB Just Black,other,Android,713,1,5.5,128.0,2915.0,2018,high
+Pixel 3 4/64GB Just Black,other,Android,1077,14,5.5,64.0,2915.0,2018,high
+Pixel 3 XL 4/64GB Just Black,other,Android,1082,29,6.3,64.0,3430.0,2018,high
+Pixel 32GB (Quite Black),other,Android,588,2,5.0,32.0,2770.0,2016,medium-low
+Pixel 3a 4/64GB Just Black,other,Android,867,26,5.6,64.0,3000.0,2019,medium-high
+Pixel 3a XL 4/64GB Just Black,other,Android,510,9,6.0,64.0,3700.0,2019,high
+Pixel 4 6/64GB Just Black,other,Android,1065,21,5.7,64.0,2800.0,2019,high
+Pixel 4 XL 6/128GB Just Black,other,Android,734,6,6.3,128.0,3700.0,2019,high
+Pixel 4 XL 6/64GB Oh So Orange,other,Android,1019,4,6.3,64.0,3700.0,2019,high
+Pixel 4a 5G 6/128GB Just Black,other,Android,1202,33,6.24,128.0,3885.0,2020,high
+Pixel 4a 6/128GB Just Black,other,Android,1223,37,5.81,128.0,3140.0,2020,high
+Pixel 5 8/128GB Just Black,other,Android,1165,36,6.0,128.0,4080.0,2020,high
+Pixel XL 128GB (Quite Black),other,Android,452,1,5.5,128.0,3450.0,2016,medium-high
+Poco F2 Pro 6/128GB Electric Purple,Xiaomi,Android,1150,1,6.67,128.0,4700.0,2020,high
+Poco M3 4/128GB Black,Xiaomi,Android,1116,41,6.53,128.0,6000.0,2020,medium-high
+Poco M3 4/64GB Black,Xiaomi,Android,1217,34,6.53,64.0,6000.0,2020,medium-low
+Poco X3 NFC 6/128GB Cobalt Blue,Xiaomi,Android,1222,59,6.67,128.0,5160.0,2020,medium-high
+Poco X3 NFC 6/64GB Cobalt Blue,Xiaomi,Android,1211,57,6.67,64.0,5160.0,2020,medium-high
+Pocophone F1 6/128GB Blue,Xiaomi,Android,946,16,6.18,128.0,4000.0,2018,medium-high
+Pop 4 Pro BC3 1/16GB Cosmic Shine,other,Android,639,18,6.52,16.0,5000.0,2020,low
+Power 6 4/64GB Black,other,Android,572,23,6.3,64.0,6350.0,2019,medium-low
+Power 6 4/64GB Blue,other,Android,171,12,6.3,64.0,6350.0,2019,medium-low
+Power 6 4/64GB Red,other,Android,416,16,6.3,64.0,6350.0,2019,medium-low
+Q 6/64GB Blue,other,Android,244,1,6.3,64.0,4035.0,2020,medium-high
+Quest 4/64GB Black,other,Android,13,1,5.5,64.0,4000.0,2020,medium-low
+R240 Dual Sim Black,other,missing,655,51,2.4,0.032,2000.0,2017,low
+RAZR 2019 XT200-1 Noir Black,Motorola,Android,827,3,6.4,128.0,2510.0,2020,high
+RAZR 2019 XT2000-2 Noir Black,Motorola,Android,972,19,6.2,128.0,2510.0,2020,high
+ROG Phone 3 Strix 12/128GB Black (90AI0031-M00010),other,Android,973,5,6.59,128.0,6000.0,2020,high
+ROG Phone 3 ZS661KS 12/128GB Black (90AI0032-M00180),other,Android,1140,7,6.59,128.0,6000.0,2020,high
+ROG Phone 3 ZS661KS 12/256GB Black,other,Android,1002,5,6.59,256.0,6000.0,2020,high
+ROG Phone 3 ZS661KS 12/512GB Black,other,Android,1088,11,6.59,512.0,6000.0,2020,high
+ROG Phone 8/512GB DualSim Black,other,Android,112,1,6.0,512.0,4000.0,2018,high
+Redmi 10x 4G 4/128GB Blue,Xiaomi,Android,1102,10,6.53,128.0,5020.0,2020,medium-high
+Redmi 10x 4G 6/128GB Blue,Xiaomi,Android,966,7,6.53,128.0,5020.0,2020,medium-high
+Redmi 4x 2/16GB Black,Xiaomi,Android,580,2,5.0,16.0,4100.0,2017,low
+Redmi 4x 2/16GB Gold,Xiaomi,Android,597,2,5.0,16.0,4100.0,2017,low
+Redmi 4x 4/64GB Black,Xiaomi,Android,1093,4,5.0,64.0,4100.0,2017,medium-low
+Redmi 4x 4/64GB Gold,Xiaomi,Android,850,4,5.0,64.0,4100.0,2017,medium-low
+Redmi 5 3/32GB Black,Xiaomi,Android,636,1,5.7,32.0,3300.0,2017,medium-low
+Redmi 5 3/32GB Gold,Xiaomi,Android,743,4,5.7,32.0,3300.0,2017,medium-low
+Redmi 5 Plus 4/64GB Black,Xiaomi,Android,608,2,5.9,64.0,4000.0,2017,medium-low
+Redmi 5 Plus 4/64GB Gold,Xiaomi,Android,859,4,5.9,64.0,4000.0,2017,medium-low
+Redmi 5A 2/16GB Gold,Xiaomi,Android,715,2,5.0,16.0,3080.0,2017,low
+Redmi 5A 3/32GB Gold,Xiaomi,Android,141,2,5.0,32.0,3080.0,2018,low
+Redmi 5A 3/32GB Gray,Xiaomi,Android,358,3,5.0,32.0,3080.0,2018,low
+Redmi 6 3/32GB Black,Xiaomi,Android,878,5,5.45,32.0,3000.0,2018,medium-low
+Redmi 6 3/32GB Gold,Xiaomi,Android,758,5,5.45,32.0,3000.0,2018,medium-low
+Redmi 6 3/64GB Black,Xiaomi,Android,667,1,5.45,64.0,3000.0,2018,medium-low
+Redmi 6 3/64GB Gold,Xiaomi,Android,343,2,5.45,64.0,3000.0,2018,medium-low
+Redmi 6 4/64GB Black,Xiaomi,Android,760,5,5.45,64.0,3000.0,2018,medium-low
+Redmi 6 Pro 3/32GB Black,Xiaomi,Android,657,2,5.84,32.0,4000.0,2018,medium-low
+Redmi 6 Pro 4/64GB Black,Xiaomi,Android,733,3,5.84,64.0,4000.0,2018,medium-low
+Redmi 7 4/64GB Blue,Xiaomi,Android,176,4,6.26,64.0,4000.0,2019,medium-low
+Redmi 7a 2/16GB Black,Xiaomi,Android,435,1,5.45,16.0,4000.0,2019,medium-low
+Redmi 7a 3/32GB Black,Xiaomi,Android,999,6,5.45,32.0,4000.0,2019,medium-low
+Redmi 8 3/32GB Black,Xiaomi,Android,1007,3,6.22,32.0,5000.0,2019,medium-low
+Redmi 8 4/64GB Blue,Xiaomi,Android,1188,31,6.22,64.0,5000.0,2019,medium-low
+Redmi 8A 3/32GB Black,Xiaomi,Android,866,1,6.22,32.0,5000.0,2020,medium-low
+Redmi 8A 4/64GB Black,Xiaomi,Android,1158,28,6.22,64.0,5000.0,2020,medium-low
+Redmi 9 3/32GB Grey NFC,Xiaomi,Android,1151,69,6.53,32.0,5020.0,2020,medium-low
+Redmi 9 3/32GB Purple no NFC,Xiaomi,Android,654,11,6.53,32.0,5020.0,2020,medium-low
+Redmi 9 4/128GB Blue (no NFC),Xiaomi,Android,367,8,6.53,128.0,5020.0,2020,medium-high
+Redmi 9 4/128GB Green (no NFC),Xiaomi,Android,263,3,6.53,128.0,5020.0,2020,medium-low
+Redmi 9 4/128GB Grey (no NFC),Xiaomi,Android,615,14,6.53,128.0,5020.0,2020,medium-low
+Redmi 9 4/128GB Pink (no NFC),Xiaomi,Android,748,14,6.53,128.0,5020.0,2020,medium-low
+Redmi 9 4/64GB Grey NFC,Xiaomi,Android,1206,47,6.53,64.0,5020.0,2020,medium-low
+Redmi 9 4/64Gb Pink (no NFC),Xiaomi,Android,976,8,6.53,64.0,5020.0,2020,medium-low
+Redmi 9 6/128GB Grey (no NFC),Xiaomi,Android,1015,13,6.53,128.0,5020.0,2020,medium-high
+Redmi 9A 2/32GB Granite Gray,Xiaomi,Android,1142,62,6.53,32.0,5000.0,2020,medium-low
+Redmi 9C 2/32GB Midnight Gray,Xiaomi,Android,934,36,6.53,32.0,5000.0,2020,medium-low
+Redmi 9C 3/64GB Midnight Gray,Xiaomi,Android,1123,10,6.53,64.0,5000.0,2020,medium-low
+Redmi 9C NFC 2/32GB Midnight Gray,Xiaomi,Android,863,29,6.53,32.0,5000.0,2020,medium-low
+Redmi 9C NFC 3/64GB Midnight Gray,Xiaomi,Android,796,3,6.53,64.0,5000.0,2020,medium-low
+Redmi 9T 4/128GB Twilight Blue,Xiaomi,Android,1107,10,6.53,128.0,6000.0,2021,medium-high
+Redmi 9T 4/64GB Sunrise Orange,Xiaomi,Android,544,2,6.53,64.0,6000.0,2021,medium-high
+Redmi K30 6/128GB Purple,Xiaomi,Android,582,3,6.67,128.0,4500.0,2020,medium-high
+Redmi K30 8/128GB Purple,Xiaomi,Android,1138,16,6.67,128.0,4500.0,2020,medium-high
+Redmi K30 8/256GB Red,Xiaomi,Android,699,7,6.67,256.0,4500.0,2020,medium-high
+Redmi K30 Pro 6/128GB White,Xiaomi,Android,963,1,6.67,128.0,4700.0,2020,high
+Redmi Note 4 3/32GB (Gray),Xiaomi,Android,669,1,5.5,32.0,4100.0,2016,medium-low
+Redmi Note 4 3/64GB (Gold),Xiaomi,Android,255,1,5.5,64.0,4100.0,2016,medium-low
+Redmi Note 4x 3/32GB Black,Xiaomi,Android,945,4,5.5,32.0,4100.0,2017,low
+Redmi Note 4x 4/64GB Black,Xiaomi,Android,1127,2,5.5,64.0,4100.0,2017,medium-low
+Redmi Note 4x 4/64GB Gold,Xiaomi,Android,781,2,5.5,64.0,4100.0,2017,medium-low
+Redmi Note 5 3/32GB Black,Xiaomi,Android,937,2,5.9,32.0,4000.0,2018,medium-low
+Redmi Note 5 3/32GB Gold,Xiaomi,Android,717,4,5.9,32.0,4000.0,2018,medium-low
+Redmi Note 5 3/32GB Rose Gold,Xiaomi,Android,347,4,5.9,32.0,4000.0,2018,medium-low
+Redmi Note 5 4/64GB Gold,Xiaomi,Android,1120,5,5.99,64.0,4000.0,2018,medium-low
+Redmi Note 6 Pro 3/32GB Blue,Xiaomi,Android,514,1,6.26,32.0,4000.0,2018,medium-low
+Redmi Note 6 Pro 4/64GB Blue,Xiaomi,Android,420,2,6.26,64.0,4000.0,2018,medium-high
+Redmi Note 6 Pro 4/64GB Rose Gold,Xiaomi,Android,392,2,6.26,64.0,4000.0,2018,medium-high
+Redmi Note 7 4/64GB Black,Xiaomi,Android,1068,3,6.3,64.0,4000.0,2019,medium-low
+Redmi Note 8 3/32GB Blue,Xiaomi,Android,971,2,6.3,32.0,4000.0,2019,medium-low
+Redmi Note 8 4/128GB Black,Xiaomi,Android,912,8,6.3,128.0,4000.0,2019,medium-high
+Redmi Note 8 4/64GB Blue,Xiaomi,Android,1171,11,6.3,64.0,4000.0,2019,medium-low
+Redmi Note 8 6/128GB Blue,Xiaomi,Android,967,7,6.3,128.0,4000.0,2019,medium-high
+Redmi Note 8 6/64GB White,Xiaomi,Android,771,2,6.3,64.0,4000.0,2020,medium-high
+Redmi Note 8 Pro 6/128GB Green,Xiaomi,Android,1125,31,6.53,128.0,4500.0,2019,medium-high
+Redmi Note 8 Pro 6/64GB Green,Xiaomi,Android,1193,39,6.53,64.0,4500.0,2019,medium-high
+Redmi Note 8 Pro 8/128GB White,Xiaomi,Android,891,1,6.53,128.0,4500.0,2020,medium-high
+Redmi Note 8T 3/32GB Grey,Xiaomi,Android,607,1,6.3,32.0,4000.0,2019,medium-high
+Redmi Note 8T 4/64GB Grey,Xiaomi,Android,1141,1,6.3,64.0,4000.0,2019,medium-low
+Redmi Note 9 3/64GB Grey (no NFC),Xiaomi,Android,465,2,6.53,64.0,5020.0,2020,medium-low
+Redmi Note 9 3/64GB Grey NFC,Xiaomi,Android,1170,45,6.53,64.0,5020.0,2020,medium-high
+Redmi Note 9 4/128GB Grey NFC,Xiaomi,Android,1200,49,6.53,128.0,5020.0,2020,medium-high
+Redmi Note 9 4/128GB White (no NFC),Xiaomi,Android,646,5,6.53,128.0,5020.0,2020,medium-high
+Redmi Note 9 Pro 4/64GB Interstellar Grey,Xiaomi,Android,757,2,6.67,64.0,5020.0,2020,medium-high
+Redmi Note 9 Pro 6/128GB Grey,Xiaomi,Android,1219,99,6.67,128.0,5020.0,2020,medium-high
+Redmi Note 9 Pro 6/64GB Green,Xiaomi,Android,1201,102,6.67,64.0,5020.0,2020,medium-high
+Redmi Note 9S 4/64GB Grey,Xiaomi,Android,1196,30,6.67,64.0,5020.0,2020,medium-high
+Redmi Note 9S 6/128GB Grey,Xiaomi,Android,1137,16,6.67,128.0,5020.0,2020,medium-high
+Redmi Note 9T 4/128GB Nightfall Black,Xiaomi,Android,763,6,6.53,128.0,5000.0,2021,medium-high
+Redmi Note 9T 4/64GB Daybreak Purple,Xiaomi,Android,958,10,6.53,64.0,5000.0,2021,medium-high
+Reno 4 Lite 8/128GB Magic Blue,other,Android,991,57,6.43,128.0,4025.0,2020,medium-high
+Reno 4 Pro 8/256GB Starry Night,other,Android,1020,54,6.5,256.0,4000.0,2020,high
+Reno 6/256GB Ocean Green,other,Android,751,11,6.4,256.0,3765.0,2020,high
+Reno2 8/256GB Ocean Blue,other,Android,1060,20,6.5,256.0,4000.0,2019,high
+Reno2 Z 8/128GB Black,other,Android,974,20,6.5,128.0,4000.0,2019,medium-high
+Reno4 Z 5G 8/128GB Black,other,Android,349,9,6.57,128.0,4000.0,2020,high
+Rover Tank T3 KUH Black,other,missing,698,2,2.4,-1.0,15800.0,2020,low
+S1 1/8GB Black,other,Android,34,3,5.5,8.0,3000.0,2018,low
+S1 Black,other,Android,58,2,5.5,64.0,3500.0,2017,medium-low
+S1-07 Black,other,missing,76,1,1.8,-1.0,1000.0,2017,low
+S1-07 Gold,other,missing,1,1,1.8,-1.0,1000.0,2017,low
+S180 DualSim Red,other,missing,201,35,1.77,0.032,600.0,2018,low
+S240 Age Black Orange,other,missing,451,4,2.4,-1.0,800.0,2019,low
+S260 Black,other,Android,643,1,5.45,8.0,2000.0,2019,low
+S31 Black,other,Android,591,12,4.7,16.0,4000.0,2018,medium-high
+S40 3/32GB Black,other,Android,924,20,5.5,32.0,4650.0,2019,medium-low
+S40 Lite 2/16GB Black,other,Android,288,17,5.5,16.0,4650.0,2020,low
+S40 Pro 4/64GB Black,other,Android,552,10,5.45,64.0,4650.0,2020,medium-low
+S42 Dual Black,other,Android,631,12,5.5,32.0,4200.0,2020,medium-high
+S5 4/64GB Pink,other,Android,498,2,5.7,64.0,3000.0,2019,medium-low
+S5 Pro 6/64GB Black,other,Android,727,2,6.2,64.0,3500.0,2019,medium-low
+S5 Pro 6/64Gb Blue,other,Android,432,1,6.2,64.0,3500.0,2019,medium-low
+S5 Pro 6/64Gb Gold,other,Android,586,5,6.2,64.0,3500.0,2019,medium-low
+S52,other,Android,784,39,5.65,64.0,3100.0,2019,high
+S55 4/64GB Black,other,Android,647,8,5.5,64.0,5500.0,2019,medium-low
+S561 3/32GB Black,other,Android,862,17,5.45,32.0,4000.0,2020,medium-low
+S58 Pro 6/64GB Black,other,Android,986,22,5.71,64.0,5180.0,2020,medium-high
+S60,other,Android,809,31,4.7,32.0,3800.0,2016,high
+S60 Lite 4/32GB Black,other,Android,297,7,5.2,32.0,5580.0,2018,medium-low
+S61 Black,other,Android,777,53,5.2,64.0,4500.0,2018,high
+S62 Pro,other,Android,1051,21,5.7,128.0,4000.0,2020,high
+S68 Pro 6/128GB Black,other,Android,848,36,5.9,128.0,6300.0,2020,medium-high
+S88 Pro 6/128GB Black,other,Android,1053,13,6.3,128.0,10000.0,2020,medium-high
+S90C 4/128GB Black,other,Android,476,6,6.18,128.0,5050.0,2020,medium-high
+S90C 4/64GB Black,other,Android,89,1,6.18,64.0,5050.0,2019,medium-high
+S90C 4/64GB GIFT Orange,other,Android,68,6,6.18,64.0,5050.0,2020,medium-high
+S95 Pro 8/128GB Black,other,Android,955,13,6.3,128.0,5150.0,2020,medium-high
+S95 Pro 8/256GB Mineral Black,other,Android,445,7,6.3,256.0,5150.0,2020,medium-high
+S96 Pro 8/128GB Black,other,Android,534,8,6.22,128.0,6350.0,2021,medium-high
+S96 Pro 8/128GB Green,other,Android,139,5,6.22,128.0,6350.0,2021,medium-high
+S96 Pro 8/128GB Orange,other,Android,438,4,6.22,128.0,6350.0,2021,medium-high
+SUN6 Blue,other,missing,282,1,3.0,-1.0,18800.0,2019,low
+Sense 55DC 16GB Black,other,Android,51,1,5.5,16.0,3000.0,2018,low
+Sense 55DC 16GB Gold,other,Android,99,5,5.5,16.0,3000.0,2018,low
+Sense 55S 16GB Black,other,Android,72,8,5.5,16.0,3000.0,2018,medium-low
+Shine AS-5435 Blue,other,Android,60,1,5.0,16.0,2000.0,2017,low
+Simple F200n Black,other,missing,292,1,1.77,0.032,600.0,2020,low
+Smart Ultra Dark Gray,other,Android,593,2,5.5,16.0,2960.0,2017,low
+Spark 4 KC2 3/32GB Royal Purple,other,Android,57,3,6.52,32.0,4000.0,2019,medium-low
+Spark 4 Lite 2/32GB Midnight Black (4895180754593),other,Android,656,6,6.52,32.0,4000.0,2020,low
+Spark 5 Pro KD7 4/128GB DS Spark Orange,other,Android,1058,49,6.6,128.0,5000.0,2020,medium-low
+Spark 5 Pro KD7 4/64GB DS Spark Orange,other,Android,1074,51,6.6,64.0,5000.0,2020,medium-low
+Spark 6 Go KE5 2/32GB Aqua Blue (4895180762383),other,Android,837,38,6.52,32.0,5000.0,2020,low
+Spark 6 Go KE5j 3/64GB Aqua Blue (4895180762918),other,Android,799,34,6.52,64.0,5000.0,2020,medium-low
+Spark 6 KE7 4/128GB Comet Black (4895180762079),other,Android,1005,45,6.8,128.0,5000.0,2020,medium-low
+Spark 6 KE7 4/64GB Ocean Blue (4895180762024),other,Android,983,44,6.8,64.0,5000.0,2020,medium-low
+Surface Duo 6GB/256GB (TGM-00001),other,Android,501,5,8.1,256.0,3577.0,2021,high
+T1 Yellow,other,missing,86,2,2.4,0.032,2100.0,2020,low
+T3 Pro 3/16GB Black,other,Android,649,1,5.5,16.0,4080.0,2018,low
+T301 Black (4895180743320),other,missing,707,41,1.77,-1.0,1150.0,2019,low
+T372 TripleSIM Black (4895180746833),other,missing,949,17,2.4,-1.0,1150.0,2019,low
+T454 Champagne Gold (4895180745980),other,missing,428,30,2.8,-1.0,1500.0,2020,low
+T474 Blue (4895180748004),other,missing,547,28,2.8,-1.0,1900.0,2020,low
+U 6/128GB Black,other,Android,518,3,5.99,128.0,3620.0,2019,medium-high
+U11 4/64GB Black 99HAMB075-00,other,Android,682,2,5.5,64.0,3000.0,2017,medium-high
+U11 4/64GB White,other,Android,20,1,5.5,64.0,3000.0,2017,medium-high
+U20 5G 8/256GB White,other,Android,579,10,6.8,256.0,5000.0,2020,high
+U3H 8/256GB Black,other,Android,372,3,6.53,256.0,3500.0,2020,medium-high
+V10 6/128GB Dual Beach Gold,other,Android,231,1,5.9,128.0,3750.0,2018,medium-high
+V182 Black,other,missing,19,2,1.8,0.032,600.0,2017,low
+V20 8/128GB Midnight Jazz,other,Android,894,26,6.44,128.0,4000.0,2020,high
+V20 8/128GB Sunset Melody,other,Android,935,9,6.44,128.0,4000.0,2020,high
+V20 SE 8/128GB Gravity Black,other,Android,684,9,6.44,128.0,4100.0,2020,medium-high
+V241 (Black),other,missing,5,14,2.4,0.032,1000.0,2016,low
+V281 Black,other,missing,264,20,2.8,0.032,1450.0,2017,low
+V40 ThinQ 4/64GB Aurora Black,other,Android,919,2,6.4,128.0,3300.0,2019,medium-high
+V50 ThinQ 5G 6/128GB Single Sim Black,other,Android,1081,3,6.4,128.0,4000.0,2019,medium-high
+V50S ThinQ 5G 8/256GB Aurora Black,other,Android,1100,2,6.4,256.0,4000.0,2020,high
+V9 6/64GB Red,other,Android,344,2,5.7,64.0,4000.0,2018,medium-high
+Velvet 5G LM-G900EM 6/128GB Aurora Gray,other,Android,779,7,6.8,128.0,4300.0,2020,high
+WP1 4/64GB Black,other,Android,9,2,5.5,64.0,5000.0,2019,medium-low
+WP2 4/64GB Black,other,Android,681,7,6.0,64.0,10000.0,2019,medium-low
+WP2 4/64GB Gold,other,Android,33,3,6.0,64.0,10000.0,2019,medium-low
+WP5 3/32GB Black,other,Android,728,3,5.5,32.0,8000.0,2020,medium-low
+WP5 Pro 4/64GB Black,other,Android,969,14,5.5,64.0,8000.0,2020,medium-low
+WP6 4/128GB Black,other,Android,1085,13,6.3,128.0,10000.0,2020,medium-high
+WP6 6/128GB Black,other,Android,939,16,6.3,128.0,10000.0,2020,medium-high
+WP7 8/128GB Black,other,Android,932,21,6.53,128.0,8000.0,2020,medium-high
+WP8 Pro 4/64GB Black,other,Android,820,11,6.49,64.0,5000.0,2020,medium-low
+X 4/64GB Black,other,Android,766,2,6.0,64.0,6200.0,2018,medium-low
+X Cover 4s G398F (SM-G398FZKD),Samsung,Android,944,33,5.0,32.0,2800.0,2019,medium-high
+X Screen 16GB Single K500n White,other,Android,348,2,4.93,16.0,2300.0,2019,low
+X-STYLE 241 SNAP Black,Sigma mobile,missing,690,12,2.4,-1.0,800.0,2021,low
+X-TREME IO93,Sigma mobile,missing,454,6,2.4,0.032,2500.0,2020,low
+X-TREME PQ39 ULTRA Black,Sigma mobile,Android,723,37,5.5,128.0,9000.0,2020,medium-high
+X-TREME PQ39 ULTRA Black-Green,Sigma mobile,Android,485,23,5.5,128.0,9000.0,2020,medium-high
+X-TREME PQ54 MAX,Sigma mobile,Android,903,27,5.7,64.0,6500.0,2020,medium-high
+X-style 17 Update Black,Sigma mobile,missing,317,52,1.77,-1.0,1000.0,2020,low
+X-style 18 TRACK Black,Sigma mobile,missing,483,109,1.77,-1.0,1000.0,2020,low
+X-style 24 ONYX Grey,Sigma mobile,missing,493,41,2.4,-1.0,800.0,2019,low
+X-style 31 Power Black,Sigma mobile,missing,830,48,2.8,-1.0,3100.0,2018,low
+X-style 31 Power Blue,Sigma mobile,missing,149,42,2.8,-1.0,3100.0,2018,low
+X-style 31 Power Orange,Sigma mobile,missing,400,41,2.8,-1.0,3100.0,2020,low
+X-style 31 Power Yellow,Sigma mobile,missing,277,38,2.8,-1.0,3100.0,2020,low
+X-style 32 Boombox Black,Sigma mobile,missing,541,42,2.4,-1.0,3200.0,2017,low
+X-style 32 Boombox Red,Sigma mobile,missing,320,35,2.4,-1.0,3200.0,2017,low
+X-style 33 Steel Grey,Sigma mobile,missing,584,41,2.8,-1.0,1000.0,2018,low
+X-style 33 Steel Red,Sigma mobile,missing,286,6,2.8,-1.0,1000.0,2018,low
+X-style 34NRG Black,Sigma mobile,missing,496,39,2.4,-1.0,4050.0,2019,low
+X-style 34NRG Blue,Sigma mobile,missing,491,41,2.4,-1.0,4050.0,2019,low
+X-style 36 Point Black,Sigma mobile,missing,776,34,3.2,-1.0,2500.0,2020,low
+X-style S3500 sKai Black,Sigma mobile,other,832,42,2.4,4.0,2000.0,2019,low
+X-treme DT68 black,Sigma mobile,missing,516,39,2.4,-1.0,2100.0,2018,low
+X-treme DT68 black-red,Sigma mobile,missing,41,4,2.4,-1.0,2100.0,2018,low
+X-treme DZ68 Black,Sigma mobile,missing,136,3,2.4,0.0032,4500.0,2018,low
+X-treme DZ68 Black-yellow,Sigma mobile,missing,289,2,2.4,0.0032,4500.0,2018,low
+X-treme IT67m black-orange,Sigma mobile,missing,598,6,2.2,-1.0,1700.0,2019,low
+X-treme PQ20 Black,Sigma mobile,Android,822,42,5.0,8.0,5000.0,2019,low
+X-treme PQ20 Black Orange,Sigma mobile,Android,360,39,5.0,8.0,5000.0,2019,low
+X-treme PQ24 Black,Sigma mobile,Android,154,1,5.0,8.0,5000.0,2017,medium-low
+X-treme PQ24 Black/Orange,Sigma mobile,Android,3,1,5.0,8.0,5000.0,2017,medium-low
+X-treme PQ29 Black,Sigma mobile,Android,237,27,5.0,16.0,5000.0,2019,medium-low
+X-treme PQ29 Black-Orange,Sigma mobile,Android,371,25,5.0,16.0,5000.0,2019,medium-low
+X-treme PQ36 Black,Sigma mobile,Android,812,8,5.45,32.0,5000.0,2020,medium-low
+X-treme PQ36 Orange,Sigma mobile,Android,618,8,5.45,32.0,5000.0,2020,medium-low
+X-treme PQ39 Black,Sigma mobile,Android,247,1,5.5,32.0,9000.0,2018,medium-high
+X-treme PQ52 Black-Orange,Sigma mobile,Android,42,2,5.0,32.0,3000.0,2018,medium-low
+X-treme PQ53 Black,Sigma mobile,Android,182,38,5.7,16.0,5000.0,2018,medium-high
+X-treme PQ54 Black (4827798865712),Sigma mobile,Android,67,3,5.7,32.0,6500.0,2018,medium-high
+X-treme PT68 Black,Sigma mobile,missing,306,39,2.4,-1.0,4400.0,2018,low
+X-treme ST68 Black,Sigma mobile,missing,737,49,2.8,-1.0,2600.0,2019,low
+X-treme ST68 black-yellow,Sigma mobile,missing,278,43,2.8,-1.0,2600.0,2019,low
+X19 4/64GB Black,other,Android,78,3,5.93,64.0,4000.0,2020,medium-low
+X2 Pro 8/128GB Lunar White,other,Android,868,1,6.5,128.0,4000.0,2020,high
+X20 Pro 6/128GB Black,other,Android,315,4,6.3,128.0,4000.0,2020,medium-low
+X3 6/64GB Black,other,Android,831,7,5.99,64.0,4100.0,2019,high
+X3 8/64GB Black,other,Android,213,1,5.99,64.0,4100.0,2020,high
+X50 5G 6/128GB Jungle Green,other,Android,679,2,6.57,128.0,4200.0,2020,medium-high
+X50 8/128GB Frost Blue,other,Android,829,24,6.56,128.0,4315.0,2020,high
+X50 8/128GB Graze Black,other,Android,892,25,6.56,128.0,4315.0,2020,high
+X50 Pro 5G 8/128GB Green,other,Android,513,1,6.44,128.0,4200.0,2020,high
+X50 Pro 5G 8/256GB Rust Red,other,Android,902,7,6.44,256.0,4200.0,2021,high
+X50 Pro 8/256GB Alpha Grey,other,Android,981,14,6.56,256.0,4315.0,2020,high
+X60L Matte Black (6924351653118),other,Android,16,2,5.5,16.0,3300.0,2018,low
+X7 Dual Sim 6/128GB Black,other,Android,250,4,6.18,128.0,3500.0,2019,medium-high
+X7 Dual Sim 6/64GB Black,other,Android,652,6,6.18,64.0,3500.0,2019,medium-high
+X90 1/16GB Black,other,Android,725,7,6.1,16.0,3400.0,2019,low
+X90 1/16GB Blue,other,Android,479,4,6.1,16.0,3400.0,2019,low
+X90 1/16GB Gold,other,Android,30,11,6.1,16.0,3400.0,2019,low
+X90L 3/16GB Green,other,Android,311,1,6.1,16.0,3400.0,2019,low
+X90L 3/16GB Purple,other,Android,130,1,6.1,16.0,3400.0,2019,low
+X95 2/16GB Black,other,Android,677,19,6.52,16.0,4350.0,2020,low
+X95 2/16GB Green,other,Android,457,28,6.52,16.0,4350.0,2020,low
+Xenium E106 Black,other,missing,350,10,1.77,0.032,1050.0,2017,low
+Xenium E109 Black,other,missing,604,33,1.77,0.032,1000.0,2019,low
+Xenium E182 Blue,other,missing,742,30,2.4,0.032,3100.0,2019,low
+Xenium E255 Black,other,missing,592,21,2.4,0.032,1050.0,2019,low
+Xenium E255 Blue,other,missing,429,24,2.4,-1.0,1050.0,2019,low
+Xenium E255 Red,other,missing,581,5,2.4,-1.0,1050.0,2020,low
+Xenium E580 Dual Sim Black,other,missing,975,27,2.8,0.128,3100.0,2020,low
+Xperia 1 II XQ-AT51 8/256GB Black,other,Android,357,1,6.5,256.0,4000.0,2020,high
+Xperia 1 II XQ-AT52 12/256GB Mirror Lake Green,other,Android,1001,18,6.5,256.0,4000.0,2020,high
+Xperia 1 II XQ-AT52 8/256GB Purple,other,Android,1066,20,6.5,256.0,4000.0,2020,high
+Xperia 1 J9110 Black,other,Android,1028,21,6.5,128.0,3330.0,2019,high
+Xperia 10 I4113 Black,other,Android,950,1,6.0,64.0,2870.0,2019,medium-high
+Xperia 10 II 4/128GB Mint,other,Android,1143,15,6.0,128.0,3600.0,2020,high
+Xperia 5 II 8/128GB Black,other,Android,284,1,6.1,128.0,4000.0,2020,high
+Xperia 5 II 8/256GB Blue,other,Android,1025,18,6.1,256.0,4000.0,2020,high
+Xperia 5 J9210 6/128GB Black,other,Android,1014,21,6.1,128.0,3140.0,2019,high
+Xperia C5 Ultra Dual E5533 (Black),other,Android,197,1,6.0,16.0,2930.0,2015,medium-high
+Xperia XA1 Dual (G3112) Black,other,Android,526,1,5.0,32.0,2300.0,2017,medium-low
+Xperia XZ (Black),other,Android,709,1,5.2,64.0,2900.0,2016,medium-high
+Xperia XZ (Blue),other,Android,268,1,5.2,64.0,2900.0,2016,medium-high
+Xperia XZ Dual F8332 (Black),other,Android,561,1,5.2,64.0,2900.0,2016,medium-high
+Xperia Z (Black),other,Android,505,1,5.0,16.0,2330.0,2013,low
+Xperia Z5 Dual E6683 (White),other,Android,565,5,5.2,32.0,2900.0,2015,medium-high
+Xperia Z5 Premium E6853 (Black),other,Android,676,1,5.5,32.0,3430.0,2015,medium-low
+Xrover C 2/16GB Black,other,Android,69,2,5.72,16.0,5000.0,2020,low
+Y11 3/32GB Agate Red,other,Android,388,1,6.35,32.0,5000.0,2019,medium-low
+Y15 4/64GB Aqua Blue,other,Android,627,16,6.35,64.0,5000.0,2019,medium-low
+Y15 4/64GB Burgundy Red,other,Android,573,6,6.35,64.0,5000.0,2019,medium-low
+Y19 4/128GB Black,other,Android,739,2,6.53,128.0,5000.0,2019,medium-high
+Y1S 2/32GB Black,other,Android,680,43,6.22,32.0,4030.0,2020,medium-low
+Y1S 2/32GB Blue,other,Android,574,47,6.22,32.0,4030.0,2020,medium-low
+Y20 4/64GB Nebula Blue,other,Android,810,40,6.51,64.0,5000.0,2020,medium-low
+Y20 4/64GB Obsidian Black,other,Android,928,36,6.51,64.0,5000.0,2020,medium-low
+Y30 4/64GB Black,other,Android,587,7,6.47,64.0,5000.0,2020,medium-low
+Y30 4/64GB Blue,other,Android,896,8,6.47,64.0,5000.0,2020,medium-low
+Y5 2019 2/16GB Black (51093SHA),other,Android,595,9,5.71,16.0,3020.0,2019,low
+Y5 2019 2/16GB Brown (51093SHE),other,Android,787,12,5.71,16.0,3020.0,2019,low
+Y5p 2/32GB Mint Green (51095MUB),other,Android,961,10,5.45,32.0,3020.0,2020,low
+Y6 2019 DS Amber Brown (51093PMR),other,Android,575,3,6.09,32.0,3020.0,2019,medium-low
+Y6 2019 DS Blue,other,Android,352,5,6.09,32.0,3020.0,2019,medium-low
+Y6 2019 DS Midnight Black (51093PMP),other,Android,791,8,6.09,32.0,3020.0,2019,medium-low
+Y6 Prime 2018 3/32GB Gold (51092MFF),other,Android,185,1,5.7,32.0,3000.0,2018,medium-low
+Y6 Pro (Gold),other,Android,408,2,5.0,16.0,4000.0,2016,low
+Y6p 3/64GB Midnight Black (51095KYP),other,Android,1086,44,6.3,64.0,5000.0,2020,medium-low
+Y6s 3/32GB Orhid Blue (51094WBU),other,Android,260,5,6.09,32.0,3020.0,2020,medium-low
+Y6s 3/32GB Starry Black (51094WBW),other,Android,789,5,6.09,32.0,3020.0,2020,medium-low
+Y7 2019 3/32GB Coral Red (51093HEW),other,Android,550,3,6.26,32.0,4000.0,2019,medium-low
+Y7 Prime 2018 3/32GB Black (51092JHA),other,Android,229,1,5.99,32.0,3000.0,2018,medium-low
+Y9 Plus 4/64GB Black,other,Android,15,1,6.3,64.0,4350.0,2019,medium-low
+Y9 Plus 4/64GB Blue,other,Android,55,1,6.3,64.0,4350.0,2019,medium-low
+ZenFone Live ZB501KL Navy Black (ZB501KL-4A053A),other,Android,281,1,5.0,32.0,2650.0,2018,medium-low
+Zenfone 5 ZE620KL 4/64GB Blue (ZE620KL-1A012WW),other,Android,893,2,6.2,64.0,3300.0,2018,medium-high
+Zenfone 7 Pro ZS671KS 8/256GB Black,other,Android,980,23,6.67,256.0,5000.0,2020,high
+Zenfone 7 ZS670KS 8/128GB Black,other,Android,1012,20,6.67,128.0,5000.0,2020,high
+i144c Black,other,missing,486,14,1.44,-1.0,600.0,2020,low
+i144c Red,other,missing,409,18,1.44,-1.0,600.0,2020,low
+i144m Black,other,missing,492,4,1.44,-1.0,600.0,2020,low
+i144m Blue,other,missing,844,24,1.44,-1.0,600.0,2019,low
+i187 Black,other,missing,266,23,1.77,0.032,800.0,2019,low
+i187 White,other,missing,61,11,1.77,0.032,800.0,2019,low
+i189 Black,other,missing,246,25,1.77,-1.0,800.0,2019,low
+i189 Blue,other,missing,14,31,1.77,-1.0,800.0,2020,low
+i220 Black,other,missing,927,28,2.2,0.032,1900.0,2019,low
+i220 Red,other,missing,917,26,2.2,0.032,1900.0,2019,low
+i240 (Black),other,missing,80,16,2.4,0.064,800.0,2014,low
+i2400 Black,other,missing,356,25,2.4,-1.0,800.0,2020,low
+i2400 Red,other,missing,826,29,2.4,-1.0,800.0,2019,low
+i2401 Red,other,missing,466,15,2.4,-1.0,1000.0,2020,low
+i2410 Grey,other,missing,37,6,2.4,-1.0,1000.0,2020,low
+i248 Black,other,missing,10,4,2.4,-1.0,800.0,2019,low
+i281 Black,other,missing,26,29,2.8,0.032,1400.0,2017,low
+i281 Red,other,missing,308,29,2.8,0.032,1400.0,2017,low
+i282 Grey,other,missing,152,2,2.8,0.032,1200.0,2017,low
+i283 Red,other,missing,50,1,2.8,0.032,1000.0,2018,low
+i284 Black,other,missing,702,35,2.8,-1.0,1750.0,2020,low
+i284 Red,other,missing,140,32,2.8,-1.0,1750.0,2020,low
+i284 Violet-blue,other,missing,613,34,2.8,-1.0,1750.0,2020,low
+i285 X-Treme Black-Yellow,other,missing,381,2,2.8,-1.0,2500.0,2019,low
+iPhone 11 128GB Black (MWLE2),Apple,iOS,1215,100,6.1,128.0,3110.0,2019,high
+iPhone 11 128GB Dual Sim Black (MWN72),Apple,iOS,968,37,6.1,128.0,3110.0,2019,high
+iPhone 11 128GB Slim Box Black (MHDH3),Apple,iOS,1106,46,6.1,128.0,3110.0,2020,high
+iPhone 11 256GB Black (MWLL2),Apple,iOS,1090,76,6.1,256.0,3110.0,2019,high
+iPhone 11 256GB Slim Box Black (MHDP3),Apple,iOS,635,27,6.1,256.0,3110.0,2020,high
+iPhone 11 64GB Black (MWLT2),Apple,iOS,1221,93,6.1,64.0,3110.0,2019,high
+iPhone 11 64GB Dual Sim White (MWN12),Apple,iOS,804,33,6.1,64.0,3110.0,2019,high
+iPhone 11 64GB Slim Box Black (MHDA3),Apple,iOS,854,37,6.1,64.0,3110.0,2020,high
+iPhone 11 Pro 256GB Dual Sim Midnight Green (MWDH2),Apple,iOS,708,21,5.8,256.0,3190.0,2019,high
+iPhone 11 Pro 256GB Midnight Green (MWCQ2),Apple,iOS,1189,94,5.8,256.0,3190.0,2019,high
+iPhone 11 Pro 512GB Dual Sim Silver (MWDK2),Apple,iOS,564,39,5.8,512.0,3190.0,2019,high
+iPhone 11 Pro 512GB Midnight Green (MWCV2),Apple,iOS,943,76,5.8,512.0,3190.0,2019,high
+iPhone 11 Pro 64GB Dual Sim Silver (MWDA2),Apple,iOS,542,33,5.8,64.0,3190.0,2019,high
+iPhone 11 Pro 64GB Space Gray (MWC22/MWCH2),Apple,iOS,1207,78,5.8,64.0,3190.0,2019,high
+iPhone 11 Pro Max 256GB Dual Sim Gold (MWF32),Apple,iOS,756,16,6.5,256.0,3969.0,2019,high
+iPhone 11 Pro Max 256GB Midnight Green (MWH72),Apple,iOS,1119,82,6.5,256.0,3969.0,2019,high
+iPhone 11 Pro Max 512GB Dual Sim Silver (MWF62),Apple,iOS,379,34,6.5,512.0,3969.0,2019,high
+iPhone 11 Pro Max 512GB Space Gray (MWH82),Apple,iOS,1069,73,6.5,512.0,3969.0,2019,high
+iPhone 11 Pro Max 64GB Dual Sim Space Gray (MWEV2),Apple,iOS,628,37,6.5,64.0,3969.0,2019,high
+iPhone 11 Pro Max 64GB Space Gray (MWGY2; MWHD2),Apple,iOS,1176,75,6.5,64.0,3969.0,2019,high
+iPhone 12 128GB Black (MGJA3/MGHC3),Apple,iOS,1213,125,6.1,128.0,2815.0,2020,high
+iPhone 12 128GB Dual Sim Black (MGGU3),Apple,iOS,846,32,6.1,128.0,2815.0,2020,high
+iPhone 12 256GB Black (MGJG3/MGHH3),Apple,iOS,1091,93,6.1,256.0,2815.0,2020,high
+iPhone 12 256GB Dual Sim Black (MGH13),Apple,iOS,735,22,6.1,256.0,2815.0,2020,high
+iPhone 12 64GB Blue (MGJ83/MGH93),Apple,iOS,1205,117,6.1,64.0,2815.0,2020,high
+iPhone 12 64GB Dual Sim (PRODUCT)RED (MGGP3),Apple,iOS,987,40,6.1,64.0,2815.0,2020,high
+iPhone 12 Pro 128GB Dual Sim Pacific Blue (MGLD3),Apple,iOS,1043,37,6.1,128.0,2815.0,2020,high
+iPhone 12 Pro 128GB Pacific Blue (MGMN3/MGLR3),Apple,iOS,1224,101,6.1,128.0,2815.0,2020,high
+iPhone 12 Pro 256GB Dual Sim Pacific Blue (MGLH3),Apple,iOS,996,38,6.1,256.0,2815.0,2020,high
+iPhone 12 Pro 256GB Pacific Blue (MGMT3/MGLW3),Apple,iOS,1198,94,6.1,256.0,2815.0,2020,high
+iPhone 12 Pro 512GB Dual Sim Pacific Blue (MGLM3),Apple,iOS,724,29,6.1,512.0,2815.0,2020,high
+iPhone 12 Pro 512GB Pacific Blue (MGMX3/MGM43),Apple,iOS,873,82,6.1,512.0,2815.0,2020,high
+iPhone 12 Pro Max 128GB Dual Sim Graphite (MGC03),Apple,iOS,1046,38,6.7,128.0,3687.0,2020,high
+iPhone 12 Pro Max 128GB Graphite (MGD73),Apple,iOS,1216,115,6.7,128.0,3687.0,2020,high
+iPhone 12 Pro Max 256GB Dual Sim Pacific Blue (MGC73),Apple,iOS,997,30,6.7,256.0,3687.0,2020,high
+iPhone 12 Pro Max 256GB Pacific Blue (MGDF3),Apple,iOS,1203,120,6.7,256.0,3687.0,2020,high
+iPhone 12 Pro Max 512GB Dual Sim Pacific Blue (MGCE3),Apple,iOS,872,33,6.7,512.0,3687.0,2020,high
+iPhone 12 Pro Max 512GB Pacific Blue (MGDL3),Apple,iOS,1103,92,6.7,512.0,3687.0,2020,high
+iPhone 12 mini 128GB Black (MGE33),Apple,iOS,1183,111,5.4,128.0,2227.0,2020,high
+iPhone 12 mini 256GB Black (MGE93),Apple,iOS,995,81,5.4,256.0,2227.0,2020,high
+iPhone 12 mini 64GB Black (MGDX3),Apple,iOS,1195,112,5.4,64.0,2227.0,2020,high
+iPhone 5C 32GB (White),Apple,iOS,8,1,4.0,32.0,1510.0,2013,medium-low
+iPhone 5C 8GB (White),Apple,iOS,633,1,4.0,8.0,1510.0,2014,low
+iPhone 5S 16GB Space Gray (ME432),Apple,iOS,780,6,4.0,16.0,1570.0,2013,medium-low
+iPhone 5S 32GB (Space Gray),Apple,iOS,524,3,4.0,32.0,1570.0,2013,medium-low
+iPhone 6 128GB (Gold),Apple,iOS,32,1,4.7,128.0,1810.0,2014,medium-high
+iPhone 6 16GB Space Gray (MG472),Apple,iOS,589,3,4.7,16.0,1810.0,2014,medium-low
+iPhone 6 32GB Space Grey (MQ3D2),Apple,iOS,644,5,4.7,32.0,1810.0,2017,medium-high
+iPhone 6 64GB Space Gray (MG4F2),Apple,iOS,716,4,4.7,64.0,1810.0,2014,medium-low
+iPhone 6 Plus 128GB (Space Gray),Apple,iOS,940,1,5.5,128.0,2915.0,2014,medium-high
+iPhone 6 Plus 16GB (Silver),Apple,iOS,313,3,5.5,16.0,2915.0,2014,medium-high
+iPhone 6 Plus 64GB Space Gray (MGAH2),Apple,iOS,341,2,5.5,64.0,2915.0,2014,medium-high
+iPhone 6s 128GB Space Gray (MKQT2),Apple,iOS,402,3,4.7,128.0,1715.0,2015,medium-high
+iPhone 6s 16GB Space Gray (MKQJ2),Apple,iOS,640,4,4.7,16.0,1715.0,2015,medium-high
+iPhone 6s 32GB Space Gray (MN0W2),Apple,iOS,922,7,4.7,32.0,1715.0,2016,medium-high
+iPhone 6s 64GB Space Gray (MKQN2),Apple,iOS,687,9,4.7,64.0,1715.0,2015,medium-high
+iPhone 6s Plus 16GB Space Gray (MKU12),Apple,iOS,489,1,5.5,16.0,2915.0,2015,medium-high
+iPhone 6s Plus 32GB Space Gray (MN2V2),Apple,iOS,683,8,5.5,32.0,2915.0,2016,medium-high
+iPhone 6s Plus 64GB Space Gray (MKU62),Apple,iOS,754,4,5.5,64.0,2915.0,2015,medium-high
+iPhone 7 128GB Jet Black (MN962),Apple,iOS,1121,21,4.7,128.0,1960.0,2016,high
+iPhone 7 256GB Black (MN972),Apple,iOS,351,10,4.7,256.0,1960.0,2016,high
+iPhone 7 32GB Black (MN8X2),Apple,iOS,1169,37,4.7,32.0,1960.0,2016,medium-high
+iPhone 7 Plus 128GB Black (MN4M2),Apple,iOS,1110,42,5.5,128.0,2900.0,2016,high
+iPhone 7 Plus 256GB Rose Gold (MN502),Apple,iOS,885,12,5.5,256.0,2900.0,2016,high
+iPhone 7 Plus 32GB Black (MNQM2),Apple,iOS,1032,31,5.5,32.0,2900.0,2016,high
+iPhone 8 128GB Gold (MX182),Apple,iOS,678,40,4.7,128.0,-1.0,2019,high
+iPhone 8 256GB Space Gray (MQ7F2),Apple,iOS,834,31,4.7,256.0,-1.0,2017,high
+iPhone 8 64GB Space Gray (MQ6G2),Apple,iOS,1162,48,4.7,64.0,-1.0,2017,high
+iPhone 8 Plus 128GB Gold (MX262),Apple,iOS,741,30,5.5,128.0,-1.0,2019,high
+iPhone 8 Plus 256GB Space Gray (MQ8G2),Apple,iOS,911,40,5.5,256.0,-1.0,2017,high
+iPhone 8 Plus 64GB Space Gray (MQ8L2),Apple,iOS,1108,46,5.5,64.0,-1.0,2017,high
+iPhone SE 128GB Space Grey (MP862),Apple,iOS,774,3,4.0,128.0,1624.0,2017,high
+iPhone SE 16GB Space Gray (MLLN2),Apple,iOS,853,3,4.0,16.0,1624.0,2016,medium-high
+iPhone SE 2020 128GB Black (MXD02/MXCW2),Apple,iOS,1112,97,4.7,128.0,1828.0,2020,high
+iPhone SE 2020 128GB Slim Box Black (MHGT3),Apple,iOS,755,29,4.7,128.0,1828.0,2020,high
+iPhone SE 2020 256GB Black (MXVT2/MXVP2),Apple,iOS,977,67,4.7,256.0,1828.0,2020,high
+iPhone SE 2020 256GB Slim Box White (MHGX3),Apple,iOS,450,15,4.7,256.0,1828.0,2020,high
+iPhone SE 2020 64GB Black (MX9R2/MX9N2),Apple,iOS,1208,105,4.7,64.0,1828.0,2020,high
+iPhone SE 2020 64GB Slim Box Black (MHGP3),Apple,iOS,858,27,4.7,64.0,1828.0,2020,high
+iPhone SE 32GB Space Grey (MP822),Apple,iOS,887,11,4.0,32.0,1624.0,2017,medium-high
+iPhone SE 64GB Space Gray (MLM62),Apple,iOS,770,3,4.0,64.0,1624.0,2016,medium-high
+iPhone X 256GB Silver (MQAG2),Apple,iOS,1186,43,5.8,256.0,2716.0,2017,high
+iPhone X 64GB Space Gray (MQAC2),Apple,iOS,1212,25,5.8,64.0,2716.0,2017,high
+iPhone XR 128GB Black (MRY92),Apple,iOS,1166,102,6.1,128.0,2942.0,2018,high
+iPhone XR 128GB Slim Box Black (MH7L3),Apple,iOS,729,27,6.1,128.0,2942.0,2020,high
+iPhone XR 256GB Black (MRYJ2),Apple,iOS,852,41,6.1,256.0,2942.0,2018,high
+iPhone XR 64GB Black (MRY42),Apple,iOS,1218,125,6.1,64.0,2942.0,2018,high
+iPhone XR 64GB Slim Box Black (MH6M3),Apple,iOS,843,24,6.1,64.0,2942.0,2020,high
+iPhone XR Dual Sim 128GB Black (MT192),Apple,iOS,765,15,6.1,128.0,2942.0,2018,high
+iPhone XR Dual Sim 64GB Black (MT122),Apple,iOS,695,26,6.1,64.0,2942.0,2018,high
+iPhone XS 256GB Gold (MT9K2),Apple,iOS,1126,68,5.8,256.0,2568.0,2018,high
+iPhone XS 512GB Silver (MT9M2),Apple,iOS,803,62,5.8,512.0,2568.0,2018,high
+iPhone XS 64GB Space Gray (MT9E2),Apple,iOS,1187,53,5.8,64.0,2568.0,2018,high
+iPhone XS Max 256GB Gold (MT552),Apple,iOS,1128,37,6.5,256.0,3174.0,2018,high
+iPhone XS Max 512GB Space Gray (MT622),Apple,iOS,842,47,6.5,512.0,3174.0,2018,high
+iPhone XS Max 64GB Gold (MT522),Apple,iOS,1101,61,6.5,64.0,3174.0,2018,high
+iPhone XS Max Dual Sim 64GB Gold (MT732),Apple,iOS,530,28,6.5,64.0,3174.0,2018,high
+nova 5T 6/128GB Black (51094MEU),other,Android,1174,18,6.26,128.0,3750.0,2019,medium-high
+nubia Red Magic 5G 8/128GB Black,other,Android,752,2,6.65,128.0,4500.0,2020,high
+x-style 35 Screen,Sigma mobile,missing,952,75,3.5,-1.0,1750.0,2020,low
