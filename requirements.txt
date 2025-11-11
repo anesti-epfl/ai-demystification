@@ -11,3 +11,5 @@ matplotlib
 sentence-transformers 
 umap-learn 
 plotly
+opencv-python
+torchvision 
